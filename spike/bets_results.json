@@ -1,0 +1,3085 @@
+[
+ {
+  "date": "1999-08-02",
+  "artist": "Placebo",
+  "stratum": "C:no-setlist",
+  "venue": "3 Arts Theatre",
+  "tour": "Without You I'm Nothing",
+  "n_songs": 0,
+  "n_covers": 0,
+  "n_studio_albums": 9,
+  "date_precision": {
+   "day": 9,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I4",
+   "notes": "no setlist; most recent trailing wins",
+   "album": "Without You I\u2019m Nothing",
+   "album_date": "1998-10-12",
+   "album_precision": "day"
+  },
+  "rule": "R3",
+  "lastfm": {
+   "pool_size": 12,
+   "queried": 12,
+   "found": 12,
+   "nonzero": 12,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Every You Every Me",
+     "found": true,
+     "playcount": 10648238,
+     "listeners": 1068082
+    },
+    {
+     "song": "Pure Morning",
+     "found": true,
+     "playcount": 7213985,
+     "listeners": 834913
+    },
+    {
+     "song": "My Sweet Prince",
+     "found": true,
+     "playcount": 2911967,
+     "listeners": 362557
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Pure Morning",
+     "found": true,
+     "playcount": 7213985,
+     "listeners": 834913
+    },
+    {
+     "song": "Brick Shithouse",
+     "found": true,
+     "playcount": 2048847,
+     "listeners": 309309
+    },
+    {
+     "song": "You Don\u2019t Care About Us",
+     "found": true,
+     "playcount": 8528,
+     "listeners": 2465
+    },
+    {
+     "song": "Ask for Answers",
+     "found": true,
+     "playcount": 1990086,
+     "listeners": 297339
+    },
+    {
+     "song": "Without You I\u2019m Nothing",
+     "found": true,
+     "playcount": 11711,
+     "listeners": 3053
+    },
+    {
+     "song": "Allergic (to Thoughts of Mother Earth)",
+     "found": true,
+     "playcount": 1681896,
+     "listeners": 247071
+    },
+    {
+     "song": "The Crawl",
+     "found": true,
+     "playcount": 2230494,
+     "listeners": 313008
+    },
+    {
+     "song": "Every You Every Me",
+     "found": true,
+     "playcount": 10648238,
+     "listeners": 1068082
+    },
+    {
+     "song": "My Sweet Prince",
+     "found": true,
+     "playcount": 2911967,
+     "listeners": 362557
+    },
+    {
+     "song": "Summer\u2019s Gone",
+     "found": true,
+     "playcount": 4648,
+     "listeners": 1492
+    },
+    {
+     "song": "Scared of Girls",
+     "found": true,
+     "playcount": 1930606,
+     "listeners": 280608
+    },
+    {
+     "song": "Burger Queen / Evil Dildo",
+     "found": true,
+     "playcount": 15945,
+     "listeners": 4748
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-04-15",
+  "artist": "Modest Mouse",
+  "stratum": "A:repeat",
+  "venue": "Paramount Theatre",
+  "tour": "We Were Dead Before the Ship Even Sank",
+  "n_songs": 15,
+  "n_covers": 0,
+  "n_studio_albums": 9,
+  "date_precision": {
+   "day": 9,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "5 trailing songs played",
+   "album": "We Were Dead Before the Ship Even Sank",
+   "album_date": "2007-03-20",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 5,
+   "exact": 4,
+   "norm": 1,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 5,
+   "queried": 5,
+   "found": 5,
+   "nonzero": 5,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Dashboard",
+     "found": true,
+     "playcount": 7466257,
+     "listeners": 950887
+    },
+    {
+     "song": "Missed the Boat",
+     "found": true,
+     "playcount": 3939506,
+     "listeners": 593503
+    },
+    {
+     "song": "Fire It Up",
+     "found": true,
+     "playcount": 2567444,
+     "listeners": 452036
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Dashboard",
+     "found": true,
+     "playcount": 7466257,
+     "listeners": 950887
+    },
+    {
+     "song": "Fire It Up",
+     "found": true,
+     "playcount": 2567444,
+     "listeners": 452036
+    },
+    {
+     "song": "Missed the Boat",
+     "found": true,
+     "playcount": 3939506,
+     "listeners": 593503
+    },
+    {
+     "song": "We've Got Everything",
+     "found": true,
+     "playcount": 1762299,
+     "listeners": 321707
+    },
+    {
+     "song": "Spitting Venom",
+     "found": true,
+     "playcount": 1631408,
+     "listeners": 283545
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-05-26",
+  "artist": "Loney Dear",
+  "stratum": "B:festival",
+  "venue": "The Gorge Amphitheatre",
+  "tour": null,
+  "n_songs": 0,
+  "n_covers": 0,
+  "n_studio_albums": 10,
+  "date_precision": {
+   "day": 8,
+   "month": 0,
+   "year": 2,
+   "none": 0
+  },
+  "inference": {
+   "step": "I4",
+   "notes": "no setlist; most recent trailing wins",
+   "album": "Loney, Noir",
+   "album_date": "2005",
+   "album_precision": "year"
+  },
+  "rule": "R3",
+  "lastfm": {
+   "pool_size": 10,
+   "queried": 10,
+   "found": 10,
+   "nonzero": 10,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "I Am John",
+     "found": true,
+     "playcount": 28259,
+     "listeners": 5644
+    },
+    {
+     "song": "Saturday Waits",
+     "found": true,
+     "playcount": 19214,
+     "listeners": 5246
+    },
+    {
+     "song": "Sinister in a State of Hope",
+     "found": true,
+     "playcount": 16055,
+     "listeners": 5039
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Sinister in a State of Hope",
+     "found": true,
+     "playcount": 16055,
+     "listeners": 5039
+    },
+    {
+     "song": "I Am John",
+     "found": true,
+     "playcount": 28259,
+     "listeners": 5644
+    },
+    {
+     "song": "Saturday Waits",
+     "found": true,
+     "playcount": 19214,
+     "listeners": 5246
+    },
+    {
+     "song": "Hard Days 1. 2. 3. 4.",
+     "found": true,
+     "playcount": 407,
+     "listeners": 152
+    },
+    {
+     "song": "I Am the Odd One",
+     "found": true,
+     "playcount": 6750,
+     "listeners": 2080
+    },
+    {
+     "song": "No One Can Win",
+     "found": true,
+     "playcount": 5607,
+     "listeners": 1646
+    },
+    {
+     "song": "I Will Call You Lover Again",
+     "found": true,
+     "playcount": 8811,
+     "listeners": 2391
+    },
+    {
+     "song": "Carrying a Stone",
+     "found": true,
+     "playcount": 8848,
+     "listeners": 2492
+    },
+    {
+     "song": "The Meter Marks OK",
+     "found": true,
+     "playcount": 6325,
+     "listeners": 1792
+    },
+    {
+     "song": "And I Won't Cause Anything at All",
+     "found": true,
+     "playcount": 6969,
+     "listeners": 1894
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-05-27",
+  "artist": "The Black Angels",
+  "stratum": "E:random",
+  "venue": "The Gorge Amphitheatre",
+  "tour": "Passover",
+  "n_songs": 0,
+  "n_covers": 0,
+  "n_studio_albums": 6,
+  "date_precision": {
+   "day": 6,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I4",
+   "notes": "no setlist; most recent trailing wins",
+   "album": "Passover",
+   "album_date": "2006-04-11",
+   "album_precision": "day"
+  },
+  "rule": "R3",
+  "lastfm": {
+   "pool_size": 11,
+   "queried": 11,
+   "found": 11,
+   "nonzero": 11,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Young Men Dead",
+     "found": true,
+     "playcount": 1231662,
+     "listeners": 200184
+    },
+    {
+     "song": "Black Grease",
+     "found": true,
+     "playcount": 768561,
+     "listeners": 134297
+    },
+    {
+     "song": "The First Vietnamese War",
+     "found": true,
+     "playcount": 532049,
+     "listeners": 98636
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Young Men Dead",
+     "found": true,
+     "playcount": 1231662,
+     "listeners": 200184
+    },
+    {
+     "song": "The First Vietnamese War",
+     "found": true,
+     "playcount": 532049,
+     "listeners": 98636
+    },
+    {
+     "song": "The Sniper at the Gates of Heaven",
+     "found": true,
+     "playcount": 356166,
+     "listeners": 71868
+    },
+    {
+     "song": "The Prodigal Sun",
+     "found": true,
+     "playcount": 297442,
+     "listeners": 58969
+    },
+    {
+     "song": "Black Grease",
+     "found": true,
+     "playcount": 768561,
+     "listeners": 134297
+    },
+    {
+     "song": "Manipulation",
+     "found": true,
+     "playcount": 452202,
+     "listeners": 83544
+    },
+    {
+     "song": "Empire",
+     "found": true,
+     "playcount": 292094,
+     "listeners": 57971
+    },
+    {
+     "song": "Better Off Alone",
+     "found": true,
+     "playcount": 343685,
+     "listeners": 71648
+    },
+    {
+     "song": "Bloodhounds on My Trail",
+     "found": true,
+     "playcount": 400483,
+     "listeners": 80117
+    },
+    {
+     "song": "Call to Arms",
+     "found": true,
+     "playcount": 197466,
+     "listeners": 46343
+    },
+    {
+     "song": "Untitled",
+     "found": true,
+     "playcount": 513,
+     "listeners": 149
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-07-12",
+  "artist": "The Tragically Hip",
+  "stratum": "D:one-off",
+  "venue": "General Motors Place",
+  "tour": "World Container Tour",
+  "n_songs": 20,
+  "n_covers": 0,
+  "n_studio_albums": 13,
+  "date_precision": {
+   "day": 13,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "7 trailing songs played",
+   "album": "World Container",
+   "album_date": "2006-10-17",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 7,
+   "exact": 5,
+   "norm": 2,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 7,
+   "queried": 7,
+   "found": 7,
+   "nonzero": 7,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "In View",
+     "found": true,
+     "playcount": 178893,
+     "listeners": 27452
+    },
+    {
+     "song": "The Lonely End of the Rink",
+     "found": true,
+     "playcount": 88885,
+     "listeners": 15311
+    },
+    {
+     "song": "Yer Not the Ocean",
+     "found": true,
+     "playcount": 73002,
+     "listeners": 13522
+    }
+   ],
+   "tracks": [
+    {
+     "song": "The Lonely End of the Rink",
+     "found": true,
+     "playcount": 88885,
+     "listeners": 15311
+    },
+    {
+     "song": "Family Band",
+     "found": true,
+     "playcount": 37366,
+     "listeners": 6661
+    },
+    {
+     "song": "Yer Not the Ocean",
+     "found": true,
+     "playcount": 73002,
+     "listeners": 13522
+    },
+    {
+     "song": "World Container",
+     "found": true,
+     "playcount": 39342,
+     "listeners": 6637
+    },
+    {
+     "song": "In View",
+     "found": true,
+     "playcount": 178893,
+     "listeners": 27452
+    },
+    {
+     "song": "The Kids Don't Get It",
+     "found": true,
+     "playcount": 25687,
+     "listeners": 4541
+    },
+    {
+     "song": "The Drop-Off",
+     "found": true,
+     "playcount": 21429,
+     "listeners": 3889
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-09-17",
+  "artist": "Editors",
+  "stratum": "C:no-setlist",
+  "venue": "Richard's on Richards",
+  "tour": null,
+  "n_songs": 0,
+  "n_covers": 0,
+  "n_studio_albums": 7,
+  "date_precision": {
+   "day": 7,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I4",
+   "notes": "no setlist; most recent trailing wins",
+   "album": "An End Has a Start",
+   "album_date": "2007-04-11",
+   "album_precision": "day"
+  },
+  "rule": "R3",
+  "lastfm": {
+   "pool_size": 10,
+   "queried": 10,
+   "found": 10,
+   "nonzero": 10,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "An End Has a Start",
+     "found": true,
+     "playcount": 3666061,
+     "listeners": 485330
+    },
+    {
+     "song": "Smokers Outside the Hospital Doors",
+     "found": true,
+     "playcount": 3082673,
+     "listeners": 408785
+    },
+    {
+     "song": "The Racing Rats",
+     "found": true,
+     "playcount": 2532864,
+     "listeners": 349049
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Smokers Outside the Hospital Doors",
+     "found": true,
+     "playcount": 3082673,
+     "listeners": 408785
+    },
+    {
+     "song": "An End Has a Start",
+     "found": true,
+     "playcount": 3666061,
+     "listeners": 485330
+    },
+    {
+     "song": "The Weight of the World",
+     "found": true,
+     "playcount": 1723670,
+     "listeners": 279879
+    },
+    {
+     "song": "Bones",
+     "found": true,
+     "playcount": 1939825,
+     "listeners": 301479
+    },
+    {
+     "song": "When Anger Shows",
+     "found": true,
+     "playcount": 1434238,
+     "listeners": 237871
+    },
+    {
+     "song": "The Racing Rats",
+     "found": true,
+     "playcount": 2532864,
+     "listeners": 349049
+    },
+    {
+     "song": "Push Your Head Towards the Air",
+     "found": true,
+     "playcount": 1088908,
+     "listeners": 200866
+    },
+    {
+     "song": "Escape the Nest",
+     "found": true,
+     "playcount": 1375308,
+     "listeners": 223921
+    },
+    {
+     "song": "Spiders",
+     "found": true,
+     "playcount": 1203898,
+     "listeners": 216843
+    },
+    {
+     "song": "Well Worn Hand",
+     "found": true,
+     "playcount": 813614,
+     "listeners": 160461
+    }
+   ]
+  }
+ },
+ {
+  "date": "2008-04-02",
+  "artist": "Eddie Vedder",
+  "stratum": "A:repeat",
+  "venue": "The Centre in Vancouver for Performing Arts",
+  "tour": "Into the Wild",
+  "n_songs": 8,
+  "n_covers": 17,
+  "n_studio_albums": 6,
+  "date_precision": {
+   "day": 2,
+   "month": 3,
+   "year": 1,
+   "none": 0
+  },
+  "inference": {
+   "step": "I3",
+   "notes": "2 future songs played (road-test)",
+   "album": "Ukulele Songs",
+   "album_date": "2011-05-26",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 2,
+   "exact": 2,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 2,
+   "queried": 2,
+   "found": 2,
+   "nonzero": 2,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Goodbye",
+     "found": true,
+     "playcount": 379405,
+     "listeners": 92404
+    },
+    {
+     "song": "Broken Heart",
+     "found": true,
+     "playcount": 296129,
+     "listeners": 73351
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Goodbye",
+     "found": true,
+     "playcount": 379405,
+     "listeners": 92404
+    },
+    {
+     "song": "Broken Heart",
+     "found": true,
+     "playcount": 296129,
+     "listeners": 73351
+    }
+   ]
+  }
+ },
+ {
+  "date": "2008-09-06",
+  "artist": "Mogwai",
+  "stratum": "A:repeat",
+  "venue": "Commodore Ballroom",
+  "tour": "The Hawk Is Howling",
+  "n_songs": 14,
+  "n_covers": 0,
+  "n_studio_albums": 11,
+  "date_precision": {
+   "day": 10,
+   "month": 1,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "6 trailing songs played",
+   "album": "The Hawk Is Howling",
+   "album_date": "2008-08-23",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 6,
+   "exact": 3,
+   "norm": 3,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 6,
+   "queried": 6,
+   "found": 6,
+   "nonzero": 6,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "I'm Jim Morrison, I'm Dead",
+     "found": true,
+     "playcount": 1057315,
+     "listeners": 181135
+    },
+    {
+     "song": "Batcat",
+     "found": true,
+     "playcount": 833632,
+     "listeners": 136564
+    },
+    {
+     "song": "I Love You, I'm Going to Blow Up Your School",
+     "found": true,
+     "playcount": 575862,
+     "listeners": 103440
+    }
+   ],
+   "tracks": [
+    {
+     "song": "The Precipice",
+     "found": true,
+     "playcount": 489895,
+     "listeners": 94718
+    },
+    {
+     "song": "I'm Jim Morrison, I'm Dead",
+     "found": true,
+     "playcount": 1057315,
+     "listeners": 181135
+    },
+    {
+     "song": "Thank You Space Expert",
+     "found": true,
+     "playcount": 568245,
+     "listeners": 105496
+    },
+    {
+     "song": "Scotland's Shame",
+     "found": true,
+     "playcount": 523344,
+     "listeners": 92917
+    },
+    {
+     "song": "I Love You, I'm Going to Blow Up Your School",
+     "found": true,
+     "playcount": 575862,
+     "listeners": 103440
+    },
+    {
+     "song": "Batcat",
+     "found": true,
+     "playcount": 833632,
+     "listeners": 136564
+    }
+   ]
+  }
+ },
+ {
+  "date": "2009-09-21",
+  "artist": "Pearl Jam",
+  "stratum": "A:repeat",
+  "venue": "KeyArena",
+  "tour": "Backspacer",
+  "n_songs": 26,
+  "n_covers": 1,
+  "n_studio_albums": 12,
+  "date_precision": {
+   "day": 12,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "8 trailing songs played",
+   "album": "Backspacer",
+   "album_date": "2009-01-01",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 8,
+   "exact": 8,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 8,
+   "queried": 8,
+   "found": 8,
+   "nonzero": 8,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Just Breathe",
+     "found": true,
+     "playcount": 4544531,
+     "listeners": 585188
+    },
+    {
+     "song": "The Fixer",
+     "found": true,
+     "playcount": 2473173,
+     "listeners": 344966
+    },
+    {
+     "song": "Unthought Known",
+     "found": true,
+     "playcount": 1326136,
+     "listeners": 198231
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Gonna See My Friend",
+     "found": true,
+     "playcount": 927663,
+     "listeners": 174217
+    },
+    {
+     "song": "Got Some",
+     "found": true,
+     "playcount": 1229763,
+     "listeners": 187929
+    },
+    {
+     "song": "Amongst the Waves",
+     "found": true,
+     "playcount": 1196441,
+     "listeners": 194522
+    },
+    {
+     "song": "Johnny Guitar",
+     "found": true,
+     "playcount": 924867,
+     "listeners": 166291
+    },
+    {
+     "song": "Unthought Known",
+     "found": true,
+     "playcount": 1326136,
+     "listeners": 198231
+    },
+    {
+     "song": "The Fixer",
+     "found": true,
+     "playcount": 2473173,
+     "listeners": 344966
+    },
+    {
+     "song": "Just Breathe",
+     "found": true,
+     "playcount": 4544531,
+     "listeners": 585188
+    },
+    {
+     "song": "The End",
+     "found": true,
+     "playcount": 1112965,
+     "listeners": 182089
+    }
+   ]
+  }
+ },
+ {
+  "date": "2009-12-02",
+  "artist": "Japandroids",
+  "stratum": "A:repeat",
+  "venue": "Biltmore Cabaret",
+  "tour": null,
+  "n_songs": 8,
+  "n_covers": 2,
+  "n_studio_albums": 4,
+  "date_precision": {
+   "day": 4,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "6 trailing songs played",
+   "album": "Post-Nothing",
+   "album_date": "2009-04-28",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 6,
+   "exact": 6,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": [
+    {
+     "song": "Art Czars",
+     "kind": "none",
+     "matched": "Heart Sweats",
+     "ratio": 0.571
+    }
+   ]
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 6,
+   "queried": 6,
+   "found": 6,
+   "nonzero": 6,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Young Hearts Spark Fire",
+     "found": true,
+     "playcount": 765084,
+     "listeners": 128001
+    },
+    {
+     "song": "The Boys Are Leaving Town",
+     "found": true,
+     "playcount": 546475,
+     "listeners": 105107
+    },
+    {
+     "song": "Rockers East Vancouver",
+     "found": true,
+     "playcount": 435361,
+     "listeners": 84892
+    }
+   ],
+   "tracks": [
+    {
+     "song": "The Boys Are Leaving Town",
+     "found": true,
+     "playcount": 546475,
+     "listeners": 105107
+    },
+    {
+     "song": "Rockers East Vancouver",
+     "found": true,
+     "playcount": 435361,
+     "listeners": 84892
+    },
+    {
+     "song": "Heart Sweats",
+     "found": true,
+     "playcount": 415390,
+     "listeners": 80343
+    },
+    {
+     "song": "Young Hearts Spark Fire",
+     "found": true,
+     "playcount": 765084,
+     "listeners": 128001
+    },
+    {
+     "song": "Crazy/Forever",
+     "found": true,
+     "playcount": 351770,
+     "listeners": 71268
+    },
+    {
+     "song": "Sovereignty",
+     "found": true,
+     "playcount": 406526,
+     "listeners": 76413
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-10-22",
+  "artist": "Beck",
+  "stratum": "B:festival",
+  "venue": "Shoreline Amphitheatre",
+  "tour": null,
+  "n_songs": 7,
+  "n_covers": 1,
+  "n_studio_albums": 14,
+  "date_precision": {
+   "day": 13,
+   "month": 0,
+   "year": 1,
+   "none": 0
+  },
+  "inference": {
+   "step": "I5",
+   "notes": "no trailing candidate, no played future song",
+   "album": null,
+   "album_date": null,
+   "album_precision": null
+  },
+  "rule": "R2",
+  "r2_unattributable": [],
+  "lastfm": {
+   "pool_size": 7,
+   "queried": 7,
+   "found": 7,
+   "nonzero": 7,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Lost Cause",
+     "found": true,
+     "playcount": 3293405,
+     "listeners": 564092
+    },
+    {
+     "song": "The Golden Age",
+     "found": true,
+     "playcount": 1973204,
+     "listeners": 399559
+    },
+    {
+     "song": "Guess I'm Doing Fine",
+     "found": true,
+     "playcount": 1451103,
+     "listeners": 307989
+    }
+   ],
+   "tracks": [
+    {
+     "song": "The Golden Age",
+     "found": true,
+     "playcount": 1973204,
+     "listeners": 399559
+    },
+    {
+     "song": "Dead Melodies",
+     "found": true,
+     "playcount": 450519,
+     "listeners": 133434
+    },
+    {
+     "song": "Guess I'm Doing Fine",
+     "found": true,
+     "playcount": 1451103,
+     "listeners": 307989
+    },
+    {
+     "song": "Already Dead",
+     "found": true,
+     "playcount": 952018,
+     "listeners": 236459
+    },
+    {
+     "song": "Lost Cause",
+     "found": true,
+     "playcount": 3293405,
+     "listeners": 564092
+    },
+    {
+     "song": "Jack-Ass",
+     "found": true,
+     "playcount": 1143132,
+     "listeners": 309322
+    },
+    {
+     "song": "Sunday Sun",
+     "found": true,
+     "playcount": 853387,
+     "listeners": 217983
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-10-22",
+  "artist": "Dave Matthews & Tim Reynolds",
+  "stratum": "B:festival",
+  "venue": "Shoreline Amphitheatre",
+  "tour": null,
+  "n_songs": 0,
+  "n_covers": 6,
+  "n_studio_albums": 1,
+  "date_precision": {
+   "day": 0,
+   "month": 0,
+   "year": 1,
+   "none": 0
+  },
+  "inference": {
+   "step": "I5",
+   "notes": "no setlist, no trailing candidate",
+   "album": null,
+   "album_date": null,
+   "album_precision": null
+  },
+  "rule": "R5",
+  "lastfm": {
+   "pool_size": 0,
+   "queried": 0,
+   "found": 0,
+   "nonzero": 0,
+   "degenerate": false,
+   "top": [],
+   "tracks": []
+  }
+ },
+ {
+  "date": "2011-10-22",
+  "artist": "Mumford & Sons",
+  "stratum": "B:festival",
+  "venue": "Shoreline Amphitheatre",
+  "tour": "Sigh No More",
+  "n_songs": 6,
+  "n_covers": 1,
+  "n_studio_albums": 6,
+  "date_precision": {
+   "day": 6,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I3",
+   "notes": "1 future songs played (road-test)",
+   "album": "Babel",
+   "album_date": "2012-09-13",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 1,
+   "exact": 1,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": [
+    {
+     "song": "The Cave",
+     "kind": "none",
+     "matched": "The Boxer",
+     "ratio": 0.588
+    }
+   ]
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 1,
+   "queried": 1,
+   "found": 1,
+   "nonzero": 1,
+   "degenerate": true,
+   "top": [
+    {
+     "song": "Lovers' Eyes",
+     "found": true,
+     "playcount": 1641257,
+     "listeners": 286588
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Lovers' Eyes",
+     "found": true,
+     "playcount": 1641257,
+     "listeners": 286588
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-10-23",
+  "artist": "Eddie Vedder",
+  "stratum": "A:repeat",
+  "venue": "Shoreline Amphitheatre",
+  "tour": null,
+  "n_songs": 0,
+  "n_covers": 7,
+  "n_studio_albums": 6,
+  "date_precision": {
+   "day": 2,
+   "month": 3,
+   "year": 1,
+   "none": 0
+  },
+  "inference": {
+   "step": "I4",
+   "notes": "no setlist; most recent trailing wins",
+   "album": "Ukulele Songs",
+   "album_date": "2011-05-26",
+   "album_precision": "day"
+  },
+  "rule": "R3",
+  "lastfm": {
+   "pool_size": 16,
+   "queried": 16,
+   "found": 16,
+   "nonzero": 16,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Tonight You Belong to Me",
+     "found": true,
+     "playcount": 593983,
+     "listeners": 120049
+    },
+    {
+     "song": "Without You",
+     "found": true,
+     "playcount": 448063,
+     "listeners": 105367
+    },
+    {
+     "song": "Sleeping by Myself",
+     "found": true,
+     "playcount": 430138,
+     "listeners": 96842
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Can\u2019t Keep",
+     "found": true,
+     "playcount": 2299,
+     "listeners": 421
+    },
+    {
+     "song": "Sleeping by Myself",
+     "found": true,
+     "playcount": 430138,
+     "listeners": 96842
+    },
+    {
+     "song": "Without You",
+     "found": true,
+     "playcount": 448063,
+     "listeners": 105367
+    },
+    {
+     "song": "More Than You Know",
+     "found": true,
+     "playcount": 363575,
+     "listeners": 99208
+    },
+    {
+     "song": "Goodbye",
+     "found": true,
+     "playcount": 379405,
+     "listeners": 92404
+    },
+    {
+     "song": "Broken Heart",
+     "found": true,
+     "playcount": 296129,
+     "listeners": 73351
+    },
+    {
+     "song": "Satellite",
+     "found": true,
+     "playcount": 295879,
+     "listeners": 72469
+    },
+    {
+     "song": "Longing to Belong",
+     "found": true,
+     "playcount": 408118,
+     "listeners": 91946
+    },
+    {
+     "song": "Hey Fahkah",
+     "found": true,
+     "playcount": 3501,
+     "listeners": 1135
+    },
+    {
+     "song": "You\u2019re True",
+     "found": true,
+     "playcount": 1645,
+     "listeners": 319
+    },
+    {
+     "song": "Light Today",
+     "found": true,
+     "playcount": 233448,
+     "listeners": 62516
+    },
+    {
+     "song": "Sleepless Nights",
+     "found": true,
+     "playcount": 273816,
+     "listeners": 69067
+    },
+    {
+     "song": "Once in a While",
+     "found": true,
+     "playcount": 207600,
+     "listeners": 55054
+    },
+    {
+     "song": "Waving Palms",
+     "found": true,
+     "playcount": 169159,
+     "listeners": 42306
+    },
+    {
+     "song": "Tonight You Belong to Me",
+     "found": true,
+     "playcount": 593983,
+     "listeners": 120049
+    },
+    {
+     "song": "Dream a Little Dream",
+     "found": true,
+     "playcount": 282306,
+     "listeners": 69492
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-10-23",
+  "artist": "Foo Fighters",
+  "stratum": "B:festival",
+  "venue": "Shoreline Amphitheatre",
+  "tour": null,
+  "n_songs": 6,
+  "n_covers": 0,
+  "n_studio_albums": 13,
+  "date_precision": {
+   "day": 13,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "2 trailing songs played",
+   "album": "Wasting Light",
+   "album_date": "2011-04-08",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 2,
+   "exact": 2,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 2,
+   "queried": 2,
+   "found": 2,
+   "nonzero": 2,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Walk",
+     "found": true,
+     "playcount": 6465260,
+     "listeners": 743564
+    },
+    {
+     "song": "These Days",
+     "found": true,
+     "playcount": 3810988,
+     "listeners": 519073
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Walk",
+     "found": true,
+     "playcount": 6465260,
+     "listeners": 743564
+    },
+    {
+     "song": "These Days",
+     "found": true,
+     "playcount": 3810988,
+     "listeners": 519073
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-10-23",
+  "artist": "Tony Bennett",
+  "stratum": "B:festival",
+  "venue": "Shoreline Amphitheatre",
+  "tour": null,
+  "n_songs": 0,
+  "n_covers": 10,
+  "n_studio_albums": 71,
+  "date_precision": {
+   "day": 16,
+   "month": 5,
+   "year": 50,
+   "none": 0
+  },
+  "inference": {
+   "step": "I4",
+   "notes": "no setlist; most recent trailing wins",
+   "album": "Duets II",
+   "album_date": "2011-09-19",
+   "album_precision": "day"
+  },
+  "rule": "R3",
+  "lastfm": {
+   "pool_size": 21,
+   "queried": 21,
+   "found": 21,
+   "nonzero": 21,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "The Way You Look Tonight",
+     "found": true,
+     "playcount": 831537,
+     "listeners": 249058
+    },
+    {
+     "song": "Body and Soul",
+     "found": true,
+     "playcount": 675455,
+     "listeners": 218119
+    },
+    {
+     "song": "I Left My Heart in San Francisco",
+     "found": true,
+     "playcount": 423923,
+     "listeners": 124970
+    }
+   ],
+   "tracks": [
+    {
+     "song": "The Lady Is a Tramp",
+     "found": true,
+     "playcount": 193695,
+     "listeners": 58658
+    },
+    {
+     "song": "One for My Baby (And One More for the Road)",
+     "found": true,
+     "playcount": 129873,
+     "listeners": 52436
+    },
+    {
+     "song": "Body and Soul",
+     "found": true,
+     "playcount": 675455,
+     "listeners": 218119
+    },
+    {
+     "song": "Don\u2019t Get Around Much Anymore",
+     "found": true,
+     "playcount": 181,
+     "listeners": 82
+    },
+    {
+     "song": "Blue Velvet",
+     "found": true,
+     "playcount": 108606,
+     "listeners": 42274
+    },
+    {
+     "song": "How Do You Keep the Music Playing",
+     "found": true,
+     "playcount": 39282,
+     "listeners": 17866
+    },
+    {
+     "song": "The Girl I Love",
+     "found": true,
+     "playcount": 20904,
+     "listeners": 9718
+    },
+    {
+     "song": "On the Sunny Side of the Street",
+     "found": true,
+     "playcount": 28535,
+     "listeners": 12107
+    },
+    {
+     "song": "Who Can I Turn To (When Nobody Needs Me)",
+     "found": true,
+     "playcount": 63546,
+     "listeners": 24092
+    },
+    {
+     "song": "Speak Low",
+     "found": true,
+     "playcount": 53286,
+     "listeners": 22731
+    },
+    {
+     "song": "This Is All I Ask",
+     "found": true,
+     "playcount": 34655,
+     "listeners": 14118
+    },
+    {
+     "song": "Watch What Happens",
+     "found": true,
+     "playcount": 18446,
+     "listeners": 7893
+    },
+    {
+     "song": "Stranger in Paradise",
+     "found": true,
+     "playcount": 185800,
+     "listeners": 77292
+    },
+    {
+     "song": "The Way You Look Tonight",
+     "found": true,
+     "playcount": 831537,
+     "listeners": 249058
+    },
+    {
+     "song": "Yesterday I Heard the Rain",
+     "found": true,
+     "playcount": 14415,
+     "listeners": 5576
+    },
+    {
+     "song": "It Had to Be You",
+     "found": true,
+     "playcount": 72718,
+     "listeners": 27182
+    },
+    {
+     "song": "When Do the Bells Ring for Me",
+     "found": true,
+     "playcount": 33952,
+     "listeners": 13104
+    },
+    {
+     "song": "When You Wish Upon a Star",
+     "found": true,
+     "playcount": 3917,
+     "listeners": 1211
+    },
+    {
+     "song": "I've Got the World on a String",
+     "found": true,
+     "playcount": 19520,
+     "listeners": 8205
+    },
+    {
+     "song": "Steppin' Out With My Baby",
+     "found": true,
+     "playcount": 69752,
+     "listeners": 21014
+    },
+    {
+     "song": "I Left My Heart in San Francisco",
+     "found": true,
+     "playcount": 423923,
+     "listeners": 124970
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-12-31",
+  "artist": "Talkdemonic",
+  "stratum": "D:one-off",
+  "venue": "McMenamins Mission Theater",
+  "tour": null,
+  "n_songs": 2,
+  "n_covers": 1,
+  "n_studio_albums": 6,
+  "date_precision": {
+   "day": 6,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "1 trailing songs played",
+   "album": "Ruins",
+   "album_date": "2011-10-04",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 1,
+   "exact": 1,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 1,
+   "queried": 1,
+   "found": 1,
+   "nonzero": 1,
+   "degenerate": true,
+   "top": [
+    {
+     "song": "Revival",
+     "found": true,
+     "playcount": 11931,
+     "listeners": 3543
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Revival",
+     "found": true,
+     "playcount": 11931,
+     "listeners": 3543
+    }
+   ]
+  }
+ },
+ {
+  "date": "2012-10-17",
+  "artist": "Grimes",
+  "stratum": "C:no-setlist",
+  "venue": "Commodore Ballroom",
+  "tour": null,
+  "n_songs": 0,
+  "n_covers": 0,
+  "n_studio_albums": 5,
+  "date_precision": {
+   "day": 5,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I4",
+   "notes": "no setlist; most recent trailing wins",
+   "album": "Visions",
+   "album_date": "2012-01-31",
+   "album_precision": "day"
+  },
+  "rule": "R3",
+  "lastfm": {
+   "pool_size": 9,
+   "queried": 9,
+   "found": 9,
+   "nonzero": 9,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Oblivion",
+     "found": true,
+     "playcount": 23744344,
+     "listeners": 1700399
+    },
+    {
+     "song": "Genesis",
+     "found": true,
+     "playcount": 23379764,
+     "listeners": 1639770
+    },
+    {
+     "song": "Circumambient",
+     "found": true,
+     "playcount": 3432197,
+     "listeners": 448665
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Oblivion",
+     "found": true,
+     "playcount": 23744344,
+     "listeners": 1700399
+    },
+    {
+     "song": "Eight",
+     "found": true,
+     "playcount": 2786672,
+     "listeners": 420142
+    },
+    {
+     "song": "Circumambient",
+     "found": true,
+     "playcount": 3432197,
+     "listeners": 448665
+    },
+    {
+     "song": "Life After Death",
+     "found": true,
+     "playcount": 97038,
+     "listeners": 13487
+    },
+    {
+     "song": "Nightmusic",
+     "found": true,
+     "playcount": 1752773,
+     "listeners": 252589
+    },
+    {
+     "song": "Ambrosia",
+     "found": true,
+     "playcount": 101822,
+     "listeners": 13979
+    },
+    {
+     "song": "Symphonia IX (My Wait Is U)",
+     "found": true,
+     "playcount": 3007757,
+     "listeners": 429595
+    },
+    {
+     "song": "Genesis",
+     "found": true,
+     "playcount": 23379764,
+     "listeners": 1639770
+    },
+    {
+     "song": "Skin",
+     "found": true,
+     "playcount": 2162829,
+     "listeners": 336062
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-06-07",
+  "artist": "Chelsea Wolfe",
+  "stratum": "D:one-off",
+  "venue": "The Moore Theatre",
+  "tour": null,
+  "n_songs": 8,
+  "n_covers": 1,
+  "n_studio_albums": 11,
+  "date_precision": {
+   "day": 9,
+   "month": 0,
+   "year": 2,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "4 trailing songs played \u2014 TIE with 'Unknown Rooms: A Collection of Acoustic Songs', most-recent won (rules doc silent)",
+   "album": "Pain Is Beauty",
+   "album_date": "2013-09-03",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 4,
+   "exact": 4,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 4,
+   "queried": 4,
+   "found": 4,
+   "nonzero": 4,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Feral Love",
+     "found": true,
+     "playcount": 1152532,
+     "listeners": 164567
+    },
+    {
+     "song": "House of Metal",
+     "found": true,
+     "playcount": 690810,
+     "listeners": 103366
+    },
+    {
+     "song": "The Warden",
+     "found": true,
+     "playcount": 580831,
+     "listeners": 91910
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Feral Love",
+     "found": true,
+     "playcount": 1152532,
+     "listeners": 164567
+    },
+    {
+     "song": "House of Metal",
+     "found": true,
+     "playcount": 690810,
+     "listeners": 103366
+    },
+    {
+     "song": "The Warden",
+     "found": true,
+     "playcount": 580831,
+     "listeners": 91910
+    },
+    {
+     "song": "Sick",
+     "found": true,
+     "playcount": 398144,
+     "listeners": 67314
+    }
+   ]
+  }
+ },
+ {
+  "date": "2015-06-09",
+  "artist": "Sufjan Stevens",
+  "stratum": "D:one-off",
+  "venue": "The Orpheum",
+  "tour": "Carrie & Lowell",
+  "n_songs": 21,
+  "n_covers": 0,
+  "n_studio_albums": 13,
+  "date_precision": {
+   "day": 13,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "11 trailing songs played",
+   "album": "Carrie & Lowell",
+   "album_date": "2015-03-31",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 11,
+   "exact": 11,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": [
+    {
+     "song": "The Owl and the Tanager",
+     "kind": "none",
+     "matched": "The Only Thing",
+     "ratio": 0.595
+    }
+   ]
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 11,
+   "queried": 11,
+   "found": 11,
+   "nonzero": 11,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Fourth of July",
+     "found": true,
+     "playcount": 16666322,
+     "listeners": 1178905
+    },
+    {
+     "song": "Should Have Known Better",
+     "found": true,
+     "playcount": 7441444,
+     "listeners": 721359
+    },
+    {
+     "song": "Death With Dignity",
+     "found": true,
+     "playcount": 7251663,
+     "listeners": 652502
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Death With Dignity",
+     "found": true,
+     "playcount": 7251663,
+     "listeners": 652502
+    },
+    {
+     "song": "Should Have Known Better",
+     "found": true,
+     "playcount": 7441444,
+     "listeners": 721359
+    },
+    {
+     "song": "Drawn to the Blood",
+     "found": true,
+     "playcount": 3013895,
+     "listeners": 343894
+    },
+    {
+     "song": "All of Me Wants All of You",
+     "found": true,
+     "playcount": 3967973,
+     "listeners": 423687
+    },
+    {
+     "song": "Eugene",
+     "found": true,
+     "playcount": 3352865,
+     "listeners": 361703
+    },
+    {
+     "song": "John My Beloved",
+     "found": true,
+     "playcount": 2986143,
+     "listeners": 322029
+    },
+    {
+     "song": "The Only Thing",
+     "found": true,
+     "playcount": 5259193,
+     "listeners": 560277
+    },
+    {
+     "song": "Fourth of July",
+     "found": true,
+     "playcount": 16666322,
+     "listeners": 1178905
+    },
+    {
+     "song": "No Shade in the Shadow of the Cross",
+     "found": true,
+     "playcount": 3004280,
+     "listeners": 354871
+    },
+    {
+     "song": "Carrie & Lowell",
+     "found": true,
+     "playcount": 2512758,
+     "listeners": 304337
+    },
+    {
+     "song": "Blue Bucket of Gold",
+     "found": true,
+     "playcount": 2224456,
+     "listeners": 275166
+    }
+   ]
+  }
+ },
+ {
+  "date": "2016-09-19",
+  "artist": "Sigur R\u00f3s",
+  "stratum": "E:random",
+  "venue": "Queen Elizabeth Theatre",
+  "tour": "2016 North American Tour",
+  "n_songs": 16,
+  "n_covers": 0,
+  "n_studio_albums": 12,
+  "date_precision": {
+   "day": 10,
+   "month": 1,
+   "year": 1,
+   "none": 0
+  },
+  "inference": {
+   "step": "I5",
+   "notes": "no trailing candidate, no played future song",
+   "album": null,
+   "album_date": null,
+   "album_precision": null
+  },
+  "rule": "R2",
+  "r2_unattributable": [
+   "\u00c1",
+   "Sm\u00e1skifa",
+   "\u00d3ve\u00f0ur",
+   "Hlj\u00f3malind",
+   "Kveikur"
+  ],
+  "lastfm": {
+   "pool_size": 11,
+   "queried": 11,
+   "found": 11,
+   "nonzero": 11,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Star\u00e1lfur",
+     "found": true,
+     "playcount": 4089638,
+     "listeners": 552927
+    },
+    {
+     "song": "Gl\u00f3s\u00f3li",
+     "found": true,
+     "playcount": 3961061,
+     "listeners": 547760
+    },
+    {
+     "song": "S\u00e6gl\u00f3pur",
+     "found": true,
+     "playcount": 2794879,
+     "listeners": 374354
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Ekki m\u00fakk",
+     "found": true,
+     "playcount": 1077111,
+     "listeners": 175422
+    },
+    {
+     "song": "Untitled #3 \u2013 Samskeyti",
+     "found": true,
+     "playcount": 21,
+     "listeners": 11
+    },
+    {
+     "song": "Untitled #6 \u2013 E-Bow",
+     "found": true,
+     "playcount": 23,
+     "listeners": 9
+    },
+    {
+     "song": "Untitled #7 \u2013 Dau\u00f0alagi\u00f0",
+     "found": true,
+     "playcount": 5,
+     "listeners": 5
+    },
+    {
+     "song": "Gl\u00f3s\u00f3li",
+     "found": true,
+     "playcount": 3961061,
+     "listeners": 547760
+    },
+    {
+     "song": "Star\u00e1lfur",
+     "found": true,
+     "playcount": 4089638,
+     "listeners": 552927
+    },
+    {
+     "song": "S\u00e6gl\u00f3pur",
+     "found": true,
+     "playcount": 2794879,
+     "listeners": 374354
+    },
+    {
+     "song": "N\u00fd batter\u00ed",
+     "found": true,
+     "playcount": 1322512,
+     "listeners": 212321
+    },
+    {
+     "song": "Festival",
+     "found": true,
+     "playcount": 2051976,
+     "listeners": 324246
+    },
+    {
+     "song": "Untitled #1 \u2013 Vaka",
+     "found": true,
+     "playcount": 38,
+     "listeners": 15
+    },
+    {
+     "song": "Untitled #8 \u2013 Popplagi\u00f0",
+     "found": true,
+     "playcount": 13,
+     "listeners": 10
+    }
+   ]
+  }
+ },
+ {
+  "date": "2016-10-07",
+  "artist": "Japandroids",
+  "stratum": "A:repeat",
+  "venue": "The Cobalt",
+  "tour": null,
+  "n_songs": 0,
+  "n_covers": 0,
+  "n_studio_albums": 4,
+  "date_precision": {
+   "day": 4,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I5",
+   "notes": "no setlist, no trailing candidate",
+   "album": null,
+   "album_date": null,
+   "album_precision": null
+  },
+  "rule": "R5",
+  "lastfm": {
+   "pool_size": 0,
+   "queried": 0,
+   "found": 0,
+   "nonzero": 0,
+   "degenerate": false,
+   "top": [],
+   "tracks": []
+  }
+ },
+ {
+  "date": "2023-09-09",
+  "artist": "Modest Mouse",
+  "stratum": "A:repeat",
+  "venue": "Doug Mitchell Thunderbird Sports Centre",
+  "tour": "Summer 2023 Pixies and Modest Mouse Tour",
+  "n_songs": 16,
+  "n_covers": 0,
+  "n_studio_albums": 9,
+  "date_precision": {
+   "day": 9,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I5",
+   "notes": "no trailing candidate, no played future song",
+   "album": null,
+   "album_date": null,
+   "album_precision": null
+  },
+  "rule": "R2",
+  "r2_unattributable": [
+   "King Rat"
+  ],
+  "lastfm": {
+   "pool_size": 15,
+   "queried": 15,
+   "found": 15,
+   "nonzero": 15,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Float On",
+     "found": true,
+     "playcount": 18610117,
+     "listeners": 1899343
+    },
+    {
+     "song": "Dashboard",
+     "found": true,
+     "playcount": 7466257,
+     "listeners": 950887
+    },
+    {
+     "song": "Ocean Breathes Salty",
+     "found": true,
+     "playcount": 4913692,
+     "listeners": 700606
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Dark Center of the Universe",
+     "found": true,
+     "playcount": 1952209,
+     "listeners": 328660
+    },
+    {
+     "song": "Ocean Breathes Salty",
+     "found": true,
+     "playcount": 4913692,
+     "listeners": 700606
+    },
+    {
+     "song": "Fire It Up",
+     "found": true,
+     "playcount": 2567444,
+     "listeners": 452036
+    },
+    {
+     "song": "Fuck Your Acid Trip",
+     "found": true,
+     "playcount": 155502,
+     "listeners": 34216
+    },
+    {
+     "song": "Lampshades on Fire",
+     "found": true,
+     "playcount": 1893187,
+     "listeners": 291450
+    },
+    {
+     "song": "Paper Thin Walls",
+     "found": true,
+     "playcount": 2554559,
+     "listeners": 413333
+    },
+    {
+     "song": "3rd Planet",
+     "found": true,
+     "playcount": 3641589,
+     "listeners": 485865
+    },
+    {
+     "song": "Blame It on the Tetons",
+     "found": true,
+     "playcount": 2141212,
+     "listeners": 424643
+    },
+    {
+     "song": "The View",
+     "found": true,
+     "playcount": 3126111,
+     "listeners": 559618
+    },
+    {
+     "song": "Dashboard",
+     "found": true,
+     "playcount": 7466257,
+     "listeners": 950887
+    },
+    {
+     "song": "Tiny Cities Made of Ashes",
+     "found": true,
+     "playcount": 1798832,
+     "listeners": 305295
+    },
+    {
+     "song": "Bukowski",
+     "found": true,
+     "playcount": 3457832,
+     "listeners": 575751
+    },
+    {
+     "song": "Float On",
+     "found": true,
+     "playcount": 18610117,
+     "listeners": 1899343
+    },
+    {
+     "song": "Teeth Like God's Shoeshine",
+     "found": true,
+     "playcount": 1981985,
+     "listeners": 274712
+    },
+    {
+     "song": "Shit Luck",
+     "found": true,
+     "playcount": 1233243,
+     "listeners": 217731
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-05-06",
+  "artist": "Pearl Jam",
+  "stratum": "A:repeat",
+  "venue": "Rogers Arena",
+  "tour": "Dark Matter World Tour",
+  "n_songs": 22,
+  "n_covers": 2,
+  "n_studio_albums": 12,
+  "date_precision": {
+   "day": 12,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "8 trailing songs played",
+   "album": "Dark Matter",
+   "album_date": "2024-04-19",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 8,
+   "exact": 8,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 8,
+   "queried": 8,
+   "found": 8,
+   "nonzero": 8,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Dark Matter",
+     "found": true,
+     "playcount": 466390,
+     "listeners": 91509
+    },
+    {
+     "song": "Wreckage",
+     "found": true,
+     "playcount": 337945,
+     "listeners": 76715
+    },
+    {
+     "song": "Running",
+     "found": true,
+     "playcount": 234749,
+     "listeners": 55332
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Scared of Fear",
+     "found": true,
+     "playcount": 198965,
+     "listeners": 46215
+    },
+    {
+     "song": "React, Respond",
+     "found": true,
+     "playcount": 150596,
+     "listeners": 39230
+    },
+    {
+     "song": "Wreckage",
+     "found": true,
+     "playcount": 337945,
+     "listeners": 76715
+    },
+    {
+     "song": "Dark Matter",
+     "found": true,
+     "playcount": 466390,
+     "listeners": 91509
+    },
+    {
+     "song": "Upper Hand",
+     "found": true,
+     "playcount": 131830,
+     "listeners": 32532
+    },
+    {
+     "song": "Got to Give",
+     "found": true,
+     "playcount": 97298,
+     "listeners": 25549
+    },
+    {
+     "song": "Running",
+     "found": true,
+     "playcount": 234749,
+     "listeners": 55332
+    },
+    {
+     "song": "Setting Sun",
+     "found": true,
+     "playcount": 102142,
+     "listeners": 25321
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-10-02",
+  "artist": "The War on Drugs",
+  "stratum": "D:one-off",
+  "venue": "Rogers Arena",
+  "tour": "Zen Diagram Tour",
+  "n_songs": 10,
+  "n_covers": 0,
+  "n_studio_albums": 5,
+  "date_precision": {
+   "day": 5,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I5",
+   "notes": "no trailing candidate, no played future song",
+   "album": null,
+   "album_date": null,
+   "album_precision": null
+  },
+  "rule": "R2",
+  "r2_unattributable": [
+   "Comin' Through"
+  ],
+  "lastfm": {
+   "pool_size": 9,
+   "queried": 9,
+   "found": 9,
+   "nonzero": 9,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Red Eyes",
+     "found": true,
+     "playcount": 4845911,
+     "listeners": 525877
+    },
+    {
+     "song": "Under the Pressure",
+     "found": true,
+     "playcount": 2501097,
+     "listeners": 311647
+    },
+    {
+     "song": "Pain",
+     "found": true,
+     "playcount": 1817378,
+     "listeners": 212529
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Baby Missiles",
+     "found": true,
+     "playcount": 833980,
+     "listeners": 155089
+    },
+    {
+     "song": "Pain",
+     "found": true,
+     "playcount": 1817378,
+     "listeners": 212529
+    },
+    {
+     "song": "An Ocean in Between the Waves",
+     "found": true,
+     "playcount": 1777511,
+     "listeners": 220612
+    },
+    {
+     "song": "I Don't Wanna Wait",
+     "found": true,
+     "playcount": 368043,
+     "listeners": 54539
+    },
+    {
+     "song": "Red Eyes",
+     "found": true,
+     "playcount": 4845911,
+     "listeners": 525877
+    },
+    {
+     "song": "Strangest Thing",
+     "found": true,
+     "playcount": 1044385,
+     "listeners": 131784
+    },
+    {
+     "song": "Harmonia's Dream",
+     "found": true,
+     "playcount": 522722,
+     "listeners": 69949
+    },
+    {
+     "song": "Under the Pressure",
+     "found": true,
+     "playcount": 2501097,
+     "listeners": 311647
+    },
+    {
+     "song": "I Don't Live Here Anymore",
+     "found": true,
+     "playcount": 47692,
+     "listeners": 7017
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-10-15",
+  "artist": "Blaqk Audio",
+  "stratum": "E:random",
+  "venue": "The Orpheum",
+  "tour": null,
+  "n_songs": 11,
+  "n_covers": 0,
+  "n_studio_albums": 6,
+  "date_precision": {
+   "day": 6,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I5",
+   "notes": "no trailing candidate, no played future song",
+   "album": null,
+   "album_date": null,
+   "album_precision": null
+  },
+  "rule": "R2",
+  "r2_unattributable": [],
+  "lastfm": {
+   "pool_size": 11,
+   "queried": 11,
+   "found": 11,
+   "nonzero": 11,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Stiff Kittens",
+     "found": true,
+     "playcount": 537255,
+     "listeners": 69099
+    },
+    {
+     "song": "Bitter for Sweet",
+     "found": true,
+     "playcount": 297222,
+     "listeners": 41753
+    },
+    {
+     "song": "Cities of Night",
+     "found": true,
+     "playcount": 247080,
+     "listeners": 35457
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Stiff Kittens",
+     "found": true,
+     "playcount": 537255,
+     "listeners": 69099
+    },
+    {
+     "song": "Dark Times at the Berlin Wall",
+     "found": true,
+     "playcount": 16709,
+     "listeners": 2373
+    },
+    {
+     "song": "Cities of Night",
+     "found": true,
+     "playcount": 247080,
+     "listeners": 35457
+    },
+    {
+     "song": "OK, Alex",
+     "found": true,
+     "playcount": 32075,
+     "listeners": 3784
+    },
+    {
+     "song": "1948",
+     "found": true,
+     "playcount": 13678,
+     "listeners": 2120
+    },
+    {
+     "song": "The Viles",
+     "found": true,
+     "playcount": 53170,
+     "listeners": 7424
+    },
+    {
+     "song": "Waiting to Be Told",
+     "found": true,
+     "playcount": 32847,
+     "listeners": 5345
+    },
+    {
+     "song": "Unstained",
+     "found": true,
+     "playcount": 24784,
+     "listeners": 3688
+    },
+    {
+     "song": "Material",
+     "found": true,
+     "playcount": 15204,
+     "listeners": 2579
+    },
+    {
+     "song": "Bitter for Sweet",
+     "found": true,
+     "playcount": 297222,
+     "listeners": 41753
+    },
+    {
+     "song": "First to Love",
+     "found": true,
+     "playcount": 70071,
+     "listeners": 9848
+    }
+   ]
+  }
+ },
+ {
+  "date": "2025-04-24",
+  "artist": "Mogwai",
+  "stratum": "A:repeat",
+  "venue": "Commodore Ballroom",
+  "tour": "World Tour 2025",
+  "n_songs": 13,
+  "n_covers": 0,
+  "n_studio_albums": 11,
+  "date_precision": {
+   "day": 10,
+   "month": 1,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "6 trailing songs played",
+   "album": "The Bad Fire",
+   "album_date": "2025-01-24",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 6,
+   "exact": 6,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 6,
+   "queried": 6,
+   "found": 6,
+   "nonzero": 6,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "God Gets You Back",
+     "found": true,
+     "playcount": 162577,
+     "listeners": 40909
+    },
+    {
+     "song": "Fanzine Made of Flesh",
+     "found": true,
+     "playcount": 127036,
+     "listeners": 34327
+    },
+    {
+     "song": "Hi Chaos",
+     "found": true,
+     "playcount": 107313,
+     "listeners": 30997
+    }
+   ],
+   "tracks": [
+    {
+     "song": "God Gets You Back",
+     "found": true,
+     "playcount": 162577,
+     "listeners": 40909
+    },
+    {
+     "song": "Hi Chaos",
+     "found": true,
+     "playcount": 107313,
+     "listeners": 30997
+    },
+    {
+     "song": "If You Find This World Bad, You Should See Some of the Others",
+     "found": true,
+     "playcount": 79885,
+     "listeners": 22516
+    },
+    {
+     "song": "Pale Vegan Hip Pain",
+     "found": true,
+     "playcount": 89654,
+     "listeners": 26883
+    },
+    {
+     "song": "Fanzine Made of Flesh",
+     "found": true,
+     "playcount": 127036,
+     "listeners": 34327
+    },
+    {
+     "song": "Lion Rumpus",
+     "found": true,
+     "playcount": 102547,
+     "listeners": 29098
+    }
+   ]
+  }
+ },
+ {
+  "date": "2025-08-22",
+  "artist": "Phantogram",
+  "stratum": "D:one-off",
+  "venue": "Rogers Arena",
+  "tour": "Running Through Colors",
+  "n_songs": 11,
+  "n_covers": 0,
+  "n_studio_albums": 5,
+  "date_precision": {
+   "day": 5,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "3 trailing songs played",
+   "album": "Memory of a Day",
+   "album_date": "2024-10-18",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 3,
+   "exact": 3,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 3,
+   "queried": 3,
+   "found": 3,
+   "nonzero": 3,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Come Alive",
+     "found": true,
+     "playcount": 156324,
+     "listeners": 37251
+    },
+    {
+     "song": "Attaway",
+     "found": true,
+     "playcount": 138546,
+     "listeners": 35520
+    },
+    {
+     "song": "Feedback Invisible",
+     "found": true,
+     "playcount": 54352,
+     "listeners": 13721
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Feedback Invisible",
+     "found": true,
+     "playcount": 54352,
+     "listeners": 13721
+    },
+    {
+     "song": "Attaway",
+     "found": true,
+     "playcount": 138546,
+     "listeners": 35520
+    },
+    {
+     "song": "Come Alive",
+     "found": true,
+     "playcount": 156324,
+     "listeners": 37251
+    }
+   ]
+  }
+ },
+ {
+  "date": "2025-09-01",
+  "artist": "Ginger Root",
+  "stratum": "C:no-setlist",
+  "venue": "The Orpheum",
+  "tour": null,
+  "n_songs": 0,
+  "n_covers": 0,
+  "n_studio_albums": 8,
+  "date_precision": {
+   "day": 8,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I4",
+   "notes": "no setlist; most recent trailing wins",
+   "album": "SHINBANGUMI",
+   "album_date": "2024-09-13",
+   "album_precision": "day"
+  },
+  "rule": "R3",
+  "lastfm": {
+   "pool_size": 12,
+   "queried": 12,
+   "found": 12,
+   "nonzero": 12,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "No Problems",
+     "found": true,
+     "playcount": 549299,
+     "listeners": 94328
+    },
+    {
+     "song": "Only You",
+     "found": true,
+     "playcount": 169808,
+     "listeners": 34843
+    },
+    {
+     "song": "Better Than Monday",
+     "found": true,
+     "playcount": 168074,
+     "listeners": 29153
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Welcome",
+     "found": true,
+     "playcount": 65947,
+     "listeners": 18963
+    },
+    {
+     "song": "No Problems",
+     "found": true,
+     "playcount": 549299,
+     "listeners": 94328
+    },
+    {
+     "song": "Better Than Monday",
+     "found": true,
+     "playcount": 168074,
+     "listeners": 29153
+    },
+    {
+     "song": "There Was a Time",
+     "found": true,
+     "playcount": 156448,
+     "listeners": 29981
+    },
+    {
+     "song": "All Night",
+     "found": true,
+     "playcount": 127572,
+     "listeners": 25863
+    },
+    {
+     "song": "CM",
+     "found": true,
+     "playcount": 53126,
+     "listeners": 15364
+    },
+    {
+     "song": "Only You",
+     "found": true,
+     "playcount": 169808,
+     "listeners": 34843
+    },
+    {
+     "song": "Kaze",
+     "found": true,
+     "playcount": 71545,
+     "listeners": 16394
+    },
+    {
+     "song": "Giddy Up",
+     "found": true,
+     "playcount": 125973,
+     "listeners": 27559
+    },
+    {
+     "song": "Think Cool",
+     "found": true,
+     "playcount": 56442,
+     "listeners": 14147
+    },
+    {
+     "song": "Show 10",
+     "found": true,
+     "playcount": 79662,
+     "listeners": 15920
+    },
+    {
+     "song": "Take Me Back (Owakare No Jikan)",
+     "found": true,
+     "playcount": 69715,
+     "listeners": 15252
+    }
+   ]
+  }
+ },
+ {
+  "date": "2025-10-07",
+  "artist": "Wolf Alice",
+  "stratum": "E:random",
+  "venue": "Commodore Ballroom",
+  "tour": "The Clearing",
+  "n_songs": 21,
+  "n_covers": 0,
+  "n_studio_albums": 4,
+  "date_precision": {
+   "day": 4,
+   "month": 0,
+   "year": 0,
+   "none": 0
+  },
+  "inference": {
+   "step": "I2",
+   "notes": "9 trailing songs played",
+   "album": "The Clearing",
+   "album_date": "2025-08-22",
+   "album_precision": "day"
+  },
+  "title_match": {
+   "on_album": 9,
+   "exact": 9,
+   "norm": 0,
+   "contains": 0,
+   "fuzzy": 0,
+   "fuzzy_cases": [],
+   "near_misses": []
+  },
+  "rule": "R1",
+  "lastfm": {
+   "pool_size": 9,
+   "queried": 9,
+   "found": 9,
+   "nonzero": 9,
+   "degenerate": false,
+   "top": [
+    {
+     "song": "Bloom Baby Bloom",
+     "found": true,
+     "playcount": 1185434,
+     "listeners": 155222
+    },
+    {
+     "song": "The Sofa",
+     "found": true,
+     "playcount": 1009636,
+     "listeners": 121884
+    },
+    {
+     "song": "White Horses",
+     "found": true,
+     "playcount": 803992,
+     "listeners": 114156
+    }
+   ],
+   "tracks": [
+    {
+     "song": "Thorns",
+     "found": true,
+     "playcount": 537757,
+     "listeners": 95255
+    },
+    {
+     "song": "White Horses",
+     "found": true,
+     "playcount": 803992,
+     "listeners": 114156
+    },
+    {
+     "song": "Just Two Girls",
+     "found": true,
+     "playcount": 787409,
+     "listeners": 133525
+    },
+    {
+     "song": "Leaning Against the Wall",
+     "found": true,
+     "playcount": 415140,
+     "listeners": 74620
+    },
+    {
+     "song": "Safe in the World",
+     "found": true,
+     "playcount": 320947,
+     "listeners": 68433
+    },
+    {
+     "song": "The Sofa",
+     "found": true,
+     "playcount": 1009636,
+     "listeners": 121884
+    },
+    {
+     "song": "Bread Butter Tea Sugar",
+     "found": true,
+     "playcount": 393801,
+     "listeners": 67473
+    },
+    {
+     "song": "Play It Out",
+     "found": true,
+     "playcount": 305027,
+     "listeners": 60868
+    },
+    {
+     "song": "Bloom Baby Bloom",
+     "found": true,
+     "playcount": 1185434,
+     "listeners": 155222
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,6 @@
+# Regenerable derived state — and verbatim third-party API responses
+# (setlist.fm terms don't permit republishing their data).
+cache/
+attendance.json
+run2.log
+.env

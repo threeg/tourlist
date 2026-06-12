@@ -1,0 +1,3100 @@
+[
+ {
+  "id": "43efe34f",
+  "versionId": "733b5235",
+  "eventDate": "02-08-1999",
+  "lastUpdated": "2020-06-07T00:27:32.912+0000",
+  "artist": {
+   "mbid": "847e8284-8582-4b0e-9c26-b042a4f49e57",
+   "name": "Placebo",
+   "sortName": "Placebo",
+   "disambiguation": "UK alternative rock band",
+   "url": "https://www.setlist.fm/setlists/placebo-3bd698cc.html"
+  },
+  "venue": {
+   "id": "7bd37e2c",
+   "name": "3 Arts Theatre",
+   "city": {
+    "id": "3369157",
+    "name": "Cape Town",
+    "state": "Western Cape",
+    "stateCode": "11",
+    "coords": {
+     "lat": -33.9166667,
+     "long": 18.4166667
+    },
+    "country": {
+     "code": "ZA",
+     "name": "South Africa"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/3-arts-theatre-cape-town-south-africa-7bd37e2c.html"
+  },
+  "tour": {
+   "name": "Without You I'm Nothing"
+  },
+  "sets": {
+   "set": []
+  },
+  "url": "https://www.setlist.fm/setlist/placebo/1999/3-arts-theatre-cape-town-south-africa-43efe34f.html",
+  "_date": "1999-08-02",
+  "_songs": [],
+  "_stratum": "C:no-setlist"
+ },
+ {
+  "id": "13d761dd",
+  "versionId": "3b8e6434",
+  "eventDate": "15-04-2007",
+  "lastUpdated": "2015-03-19T10:55:45.000+0000",
+  "artist": {
+   "mbid": "a96ac800-bfcb-412a-8a63-0a98df600700",
+   "name": "Modest Mouse",
+   "sortName": "Modest Mouse",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/modest-mouse-73d6ae69.html"
+  },
+  "venue": {
+   "id": "43d61ff3",
+   "name": "Paramount Theatre",
+   "city": {
+    "id": "5809844",
+    "name": "Seattle",
+    "state": "Washington",
+    "stateCode": "WA",
+    "coords": {
+     "lat": 47.6062095,
+     "long": -122.3320708
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/paramount-theatre-seattle-wa-usa-43d61ff3.html"
+  },
+  "tour": {
+   "name": "We Were Dead Before the Ship Even Sank"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Bury Me With It"
+      },
+      {
+       "name": "Black Cadillacs"
+      },
+      {
+       "name": "Dashboard"
+      },
+      {
+       "name": "Paper Thin Walls"
+      },
+      {
+       "name": "Fire It Up"
+      },
+      {
+       "name": "Trailer Trash",
+       "info": "Extended, with Perpetual Motion Machine tease"
+      },
+      {
+       "name": "Bukowski"
+      },
+      {
+       "name": "Missed the Boat"
+      },
+      {
+       "name": "Doin' the Cockroach",
+       "info": "Extended"
+      },
+      {
+       "name": "Tiny Cities Made of Ashes"
+      },
+      {
+       "name": "We've Got Everything"
+      },
+      {
+       "name": "Float On"
+      },
+      {
+       "name": "The View"
+      }
+     ]
+    },
+    {
+     "encore": 1,
+     "song": [
+      {
+       "name": "Ocean Breathes Salty"
+      },
+      {
+       "name": "Spitting Venom",
+       "info": "Extended, with King Rat tease"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/modest-mouse/2007/paramount-theatre-seattle-wa-13d761dd.html",
+  "_date": "2007-04-15",
+  "_songs": [
+   "Bury Me With It",
+   "Black Cadillacs",
+   "Dashboard",
+   "Paper Thin Walls",
+   "Fire It Up",
+   "Trailer Trash",
+   "Bukowski",
+   "Missed the Boat",
+   "Doin' the Cockroach",
+   "Tiny Cities Made of Ashes",
+   "We've Got Everything",
+   "Float On",
+   "The View",
+   "Ocean Breathes Salty",
+   "Spitting Venom"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "1377a57d",
+  "versionId": "g6311ae1f",
+  "eventDate": "26-05-2007",
+  "lastUpdated": "2026-04-19T06:03:26.922+0000",
+  "artist": {
+   "mbid": "45b3b313-0ec2-455b-b2fb-858bb4faac10",
+   "name": "Loney Dear",
+   "sortName": "Loney Dear",
+   "disambiguation": "Swedish singer-songwriter Emil Svan\u00e4ngen",
+   "url": "https://www.setlist.fm/setlists/loney-dear-6bd60256.html"
+  },
+  "venue": {
+   "id": "73d6de85",
+   "name": "The Gorge Amphitheatre",
+   "city": {
+    "id": "5795355",
+    "name": "George",
+    "state": "Washington",
+    "stateCode": "WA",
+    "coords": {
+     "lat": 47.0790224,
+     "long": -119.8558822
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/the-gorge-amphitheatre-george-wa-usa-73d6de85.html"
+  },
+  "sets": {
+   "set": []
+  },
+  "url": "https://www.setlist.fm/setlist/loney-dear/2007/the-gorge-amphitheatre-george-wa-1377a57d.html",
+  "_date": "2007-05-26",
+  "_songs": [],
+  "_stratum": "B:festival"
+ },
+ {
+  "id": "13e65db1",
+  "versionId": "g63c2b6eb",
+  "eventDate": "27-05-2007",
+  "lastUpdated": "2021-12-12T22:55:37.171+0000",
+  "artist": {
+   "mbid": "49814f71-8fef-41ec-9af8-b6995c0bd601",
+   "name": "The Black Angels",
+   "sortName": "Black Angels, The",
+   "disambiguation": "US psychedelic rock band since 2004",
+   "url": "https://www.setlist.fm/setlists/the-black-angels-3bd6ac20.html"
+  },
+  "venue": {
+   "id": "73d6de85",
+   "name": "The Gorge Amphitheatre",
+   "city": {
+    "id": "5795355",
+    "name": "George",
+    "state": "Washington",
+    "stateCode": "WA",
+    "coords": {
+     "lat": 47.0790224,
+     "long": -119.8558822
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/the-gorge-amphitheatre-george-wa-usa-73d6de85.html"
+  },
+  "tour": {
+   "name": "Passover"
+  },
+  "sets": {
+   "set": []
+  },
+  "url": "https://www.setlist.fm/setlist/the-black-angels/2007/the-gorge-amphitheatre-george-wa-13e65db1.html",
+  "_date": "2007-05-27",
+  "_songs": [],
+  "_stratum": "E:random"
+ },
+ {
+  "id": "5bd1a384",
+  "versionId": "4b820fb2",
+  "eventDate": "12-07-2007",
+  "lastUpdated": "2015-01-17T15:19:13.000+0000",
+  "artist": {
+   "mbid": "e86ab653-bec8-46f3-b4b6-a1a866919ef6",
+   "name": "The Tragically Hip",
+   "sortName": "Tragically Hip, The",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/the-tragically-hip-43d68b1b.html"
+  },
+  "venue": {
+   "id": "4bd637ae",
+   "name": "General Motors Place",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/general-motors-place-vancouver-bc-canada-4bd637ae.html"
+  },
+  "tour": {
+   "name": "World Container Tour"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "The Lonely End of the Rink"
+      },
+      {
+       "name": "New Orleans Is Sinking"
+      },
+      {
+       "name": "My Music at Work"
+      },
+      {
+       "name": "It's a Good Life if You Don't Weaken"
+      },
+      {
+       "name": "Family Band"
+      },
+      {
+       "name": "Ahead by a Century"
+      },
+      {
+       "name": "Yer Not the Ocean"
+      },
+      {
+       "name": "Courage (for Hugh MacLennan)"
+      },
+      {
+       "name": "World Container"
+      },
+      {
+       "name": "Long Time Running"
+      },
+      {
+       "name": "In View"
+      },
+      {
+       "name": "Springtime in Vienna"
+      },
+      {
+       "name": "At the Hundredth Meridian"
+      },
+      {
+       "name": "Bobcaygeon"
+      },
+      {
+       "name": "The Kids Don't Get It"
+      },
+      {
+       "name": "Fully Completely"
+      },
+      {
+       "name": "Blow at High Dough"
+      }
+     ]
+    },
+    {
+     "encore": 1,
+     "song": [
+      {
+       "name": "The Drop-Off"
+      },
+      {
+       "name": "Grace, Too"
+      },
+      {
+       "name": "Fireworks"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/the-tragically-hip/2007/general-motors-place-vancouver-bc-canada-5bd1a384.html",
+  "_date": "2007-07-12",
+  "_songs": [
+   "The Lonely End of the Rink",
+   "New Orleans Is Sinking",
+   "My Music at Work",
+   "It's a Good Life if You Don't Weaken",
+   "Family Band",
+   "Ahead by a Century",
+   "Yer Not the Ocean",
+   "Courage (for Hugh MacLennan)",
+   "World Container",
+   "Long Time Running",
+   "In View",
+   "Springtime in Vienna",
+   "At the Hundredth Meridian",
+   "Bobcaygeon",
+   "The Kids Don't Get It",
+   "Fully Completely",
+   "Blow at High Dough",
+   "The Drop-Off",
+   "Grace, Too",
+   "Fireworks"
+  ],
+  "_stratum": "D:one-off"
+ },
+ {
+  "id": "5be89730",
+  "versionId": "2366dcdb",
+  "eventDate": "17-09-2007",
+  "lastUpdated": "2018-08-12T22:02:22.604+0000",
+  "artist": {
+   "mbid": "0efe858c-89e5-4e47-906a-356fa953fd6e",
+   "name": "Editors",
+   "sortName": "Editors",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/editors-1bd6bdb8.html"
+  },
+  "venue": {
+   "id": "23d6346f",
+   "name": "Richard's on Richards",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/richards-on-richards-vancouver-bc-canada-23d6346f.html"
+  },
+  "sets": {
+   "set": []
+  },
+  "url": "https://www.setlist.fm/setlist/editors/2007/richards-on-richards-vancouver-bc-canada-5be89730.html",
+  "_date": "2007-09-17",
+  "_songs": [],
+  "_stratum": "C:no-setlist"
+ },
+ {
+  "id": "43d613a3",
+  "versionId": "g6360aa6f",
+  "eventDate": "02-04-2008",
+  "lastUpdated": "2025-11-29T05:12:33.578+0000",
+  "artist": {
+   "mbid": "1a60d6dd-9d3e-40fc-a66d-3184f9ee0d61",
+   "name": "Eddie Vedder",
+   "sortName": "Vedder, Eddie",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/eddie-vedder-6bd6a2e2.html"
+  },
+  "venue": {
+   "id": "7bd0c21c",
+   "name": "The Centre in Vancouver for Performing Arts",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/the-centre-in-vancouver-for-performing-arts-vancouver-bc-canada-7bd0c21c.html"
+  },
+  "tour": {
+   "name": "Into the Wild"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Walking the Cow",
+       "cover": {
+        "mbid": "8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76",
+        "name": "Daniel Johnston",
+        "sortName": "Johnston, Daniel",
+        "disambiguation": "US singer\u2010songwriter",
+        "url": "https://www.setlist.fm/setlists/daniel-johnston-43d6471b.html"
+       }
+      },
+      {
+       "name": "Around the Bend",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       }
+      },
+      {
+       "name": "I Am Mine",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       }
+      },
+      {
+       "name": "Dead Man",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       }
+      },
+      {
+       "name": "Setting Forth"
+      },
+      {
+       "name": "No Ceiling"
+      },
+      {
+       "name": "Guaranteed"
+      },
+      {
+       "name": "Far Behind"
+      },
+      {
+       "name": "Rise"
+      },
+      {
+       "name": "Millworker",
+       "cover": {
+        "mbid": "107d0c22-d051-4d98-8206-4e14de02132a",
+        "name": "James Taylor",
+        "sortName": "Taylor, James",
+        "disambiguation": "singer-songwriter and guitarist",
+        "url": "https://www.setlist.fm/setlists/james-taylor-43d6b383.html"
+       }
+      },
+      {
+       "name": "Goodbye"
+      },
+      {
+       "name": "Broken Heart"
+      },
+      {
+       "name": "Soon Forget",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       }
+      },
+      {
+       "name": "I Used to Work in Chicago",
+       "cover": {
+        "mbid": "ee043fdd-805e-4d43-8866-dd90fc3b7301",
+        "name": "Larry Vincent",
+        "sortName": "Vincent, Larry",
+        "disambiguation": "composer/songwriter",
+        "url": "https://www.setlist.fm/setlists/larry-vincent-73de4a61.html"
+       }
+      },
+      {
+       "name": "Driftin'",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       }
+      },
+      {
+       "name": "You've Got to Hide Your Love Away",
+       "cover": {
+        "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "name": "The Beatles",
+        "sortName": "Beatles, The",
+        "disambiguation": "UK rock band, \u201cThe Fab Four\u201d",
+        "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+       }
+      },
+      {
+       "name": "Trouble",
+       "cover": {
+        "mbid": "e2345fdf-2be7-47c5-a6dd-be64353ad134",
+        "name": "Cat Stevens",
+        "sortName": "Stevens, Cat",
+        "disambiguation": "now known as Yusuf Islam",
+        "url": "https://www.setlist.fm/setlists/cat-stevens-33c6d855.html"
+       }
+      },
+      {
+       "name": "If You Want to Sing Out, Sing Out",
+       "cover": {
+        "mbid": "e2345fdf-2be7-47c5-a6dd-be64353ad134",
+        "name": "Cat Stevens",
+        "sortName": "Stevens, Cat",
+        "disambiguation": "now known as Yusuf Islam",
+        "url": "https://www.setlist.fm/setlists/cat-stevens-33c6d855.html"
+       }
+      },
+      {
+       "name": "Porch",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       }
+      },
+      {
+       "name": "Forever Young",
+       "cover": {
+        "mbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+        "name": "Bob Dylan",
+        "sortName": "Dylan, Bob",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+       }
+      },
+      {
+       "name": "Society",
+       "cover": {
+        "mbid": "652c420b-9b65-45d8-b18f-361ccdd49b0c",
+        "name": "Jerry Hannan",
+        "sortName": "Hannan, Jerry",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jerry-hannan-6bd4fe82.html"
+       },
+       "with": {
+        "mbid": "842e1b63-9a2f-4964-801c-8bb9326585f9",
+        "name": "Liam Finn",
+        "sortName": "Finn, Liam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/liam-finn-63d6ae1b.html"
+       }
+      },
+      {
+       "name": "Lukin",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       }
+      },
+      {
+       "name": "No More"
+      },
+      {
+       "name": "Arc",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       },
+       "info": "live debut by EV"
+      },
+      {
+       "name": "Hard Sun",
+       "cover": {
+        "mbid": "775541e8-a3da-4324-9609-6b91b484168f",
+        "name": "Indio",
+        "sortName": "Indio",
+        "disambiguation": "US techno trio",
+        "url": "https://www.setlist.fm/setlists/indio-bd4a19a.html"
+       },
+       "with": {
+        "mbid": "842e1b63-9a2f-4964-801c-8bb9326585f9",
+        "name": "Liam Finn",
+        "sortName": "Finn, Liam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/liam-finn-63d6ae1b.html"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/eddie-vedder/2008/the-centre-in-vancouver-for-performing-arts-vancouver-bc-canada-43d613a3.html",
+  "_date": "2008-04-02",
+  "_songs": [
+   "Walking the Cow",
+   "Around the Bend",
+   "I Am Mine",
+   "Dead Man",
+   "Setting Forth",
+   "No Ceiling",
+   "Guaranteed",
+   "Far Behind",
+   "Rise",
+   "Millworker",
+   "Goodbye",
+   "Broken Heart",
+   "Soon Forget",
+   "I Used to Work in Chicago",
+   "Driftin'",
+   "You've Got to Hide Your Love Away",
+   "Trouble",
+   "If You Want to Sing Out, Sing Out",
+   "Porch",
+   "Forever Young",
+   "Society",
+   "Lukin",
+   "No More",
+   "Arc",
+   "Hard Sun"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "6bde3a36",
+  "versionId": "g53c6bf5d",
+  "eventDate": "06-09-2008",
+  "lastUpdated": "2021-10-18T04:34:40.856+0000",
+  "artist": {
+   "mbid": "d700b3f5-45af-4d02-95ed-57d301bda93e",
+   "name": "Mogwai",
+   "sortName": "Mogwai",
+   "disambiguation": "Scottish post\u2010rock band",
+   "url": "https://www.setlist.fm/setlists/mogwai-6bd69a52.html"
+  },
+  "venue": {
+   "id": "6bd6d2a2",
+   "name": "Commodore Ballroom",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/commodore-ballroom-vancouver-bc-canada-6bd6d2a2.html"
+  },
+  "tour": {
+   "name": "The Hawk Is Howling"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "The Precipice"
+      },
+      {
+       "name": "Friend of the Night"
+      },
+      {
+       "name": "I'm Jim Morrison, I'm Dead"
+      },
+      {
+       "name": "Ex-Cowboy"
+      },
+      {
+       "name": "Thank You Space Expert"
+      },
+      {
+       "name": "Tracy"
+      },
+      {
+       "name": "Scotland's Shame"
+      },
+      {
+       "name": "Hunted by a Freak"
+      },
+      {
+       "name": "Mogwai Fear Satan"
+      },
+      {
+       "name": "I Love You, I'm Going to Blow Up Your School"
+      },
+      {
+       "name": "New Paths to Helicon, Pt. 1"
+      },
+      {
+       "name": "Like Herod"
+      },
+      {
+       "name": "Batcat"
+      }
+     ]
+    },
+    {
+     "encore": 1,
+     "song": [
+      {
+       "name": "Ithica 27\u00f89"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/mogwai/2008/commodore-ballroom-vancouver-bc-canada-6bde3a36.html",
+  "_date": "2008-09-06",
+  "_songs": [
+   "The Precipice",
+   "Friend of the Night",
+   "I'm Jim Morrison, I'm Dead",
+   "Ex-Cowboy",
+   "Thank You Space Expert",
+   "Tracy",
+   "Scotland's Shame",
+   "Hunted by a Freak",
+   "Mogwai Fear Satan",
+   "I Love You, I'm Going to Blow Up Your School",
+   "New Paths to Helicon, Pt. 1",
+   "Like Herod",
+   "Batcat",
+   "Ithica 27\u00f89"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "5bd78b1c",
+  "versionId": "g23f2b8bb",
+  "eventDate": "21-09-2009",
+  "lastUpdated": "2022-07-05T17:36:15.656+0000",
+  "artist": {
+   "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+   "name": "Pearl Jam",
+   "sortName": "Pearl Jam",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+  },
+  "venue": {
+   "id": "7bd6d6f0",
+   "name": "KeyArena",
+   "city": {
+    "id": "5809844",
+    "name": "Seattle",
+    "state": "Washington",
+    "stateCode": "WA",
+    "coords": {
+     "lat": 47.6062095,
+     "long": -122.3320708
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/keyarena-seattle-wa-usa-7bd6d6f0.html"
+  },
+  "tour": {
+   "name": "Backspacer"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Long Road"
+      },
+      {
+       "name": "Corduroy"
+      },
+      {
+       "name": "Gonna See My Friend",
+       "info": "premiere: first time ever"
+      },
+      {
+       "name": "Got Some"
+      },
+      {
+       "name": "Hail, Hail"
+      },
+      {
+       "name": "Amongst the Waves",
+       "info": "premiere: first time ever"
+      },
+      {
+       "name": "Daughter"
+      },
+      {
+       "name": "Even Flow"
+      },
+      {
+       "name": "Johnny Guitar",
+       "info": "premiere: first time ever"
+      },
+      {
+       "name": "Unthought Known",
+       "info": "premiere: first time ever"
+      },
+      {
+       "name": "World Wide Suicide"
+      },
+      {
+       "name": "Elderly Woman Behind the Counter in a Small Town"
+      },
+      {
+       "name": "Off He Goes"
+      },
+      {
+       "name": "Down"
+      },
+      {
+       "name": "Save You"
+      },
+      {
+       "name": "The Fixer"
+      },
+      {
+       "name": "Life Wasted"
+      }
+     ]
+    },
+    {
+     "encore": 1,
+     "song": [
+      {
+       "name": "Just Breathe",
+       "info": "premiere: first time ever"
+      },
+      {
+       "name": "The End"
+      },
+      {
+       "name": "Inside Job"
+      },
+      {
+       "name": "Rearviewmirror"
+      }
+     ]
+    },
+    {
+     "encore": 2,
+     "song": [
+      {
+       "name": "Given to Fly"
+      },
+      {
+       "name": "Do the Evolution"
+      },
+      {
+       "name": "Better Man"
+      },
+      {
+       "name": "The Real Me",
+       "cover": {
+        "mbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+        "name": "The Who",
+        "sortName": "Who, The",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+       }
+      },
+      {
+       "name": "Indifference"
+      },
+      {
+       "name": "Alive"
+      }
+     ]
+    }
+   ]
+  },
+  "info": "Soundcheck included \"Just Breathe\", \"The End\" (x2), and \"The Real Me\".",
+  "url": "https://www.setlist.fm/setlist/pearl-jam/2009/keyarena-seattle-wa-5bd78b1c.html",
+  "_date": "2009-09-21",
+  "_songs": [
+   "Long Road",
+   "Corduroy",
+   "Gonna See My Friend",
+   "Got Some",
+   "Hail, Hail",
+   "Amongst the Waves",
+   "Daughter",
+   "Even Flow",
+   "Johnny Guitar",
+   "Unthought Known",
+   "World Wide Suicide",
+   "Elderly Woman Behind the Counter in a Small Town",
+   "Off He Goes",
+   "Down",
+   "Save You",
+   "The Fixer",
+   "Life Wasted",
+   "Just Breathe",
+   "The End",
+   "Inside Job",
+   "Rearviewmirror",
+   "Given to Fly",
+   "Do the Evolution",
+   "Better Man",
+   "The Real Me",
+   "Indifference",
+   "Alive"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "bdac96a",
+  "versionId": "23f0e83f",
+  "eventDate": "02-12-2009",
+  "lastUpdated": "2012-11-26T10:09:26.000+0000",
+  "artist": {
+   "mbid": "2008d65c-31ee-4382-8960-5188523568d5",
+   "name": "Japandroids",
+   "sortName": "Japandroids",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/japandroids-4bd4af52.html"
+  },
+  "venue": {
+   "id": "6bd6de82",
+   "name": "Biltmore Cabaret",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/biltmore-cabaret-vancouver-bc-canada-6bd6de82.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "The Boys Are Leaving Town"
+      },
+      {
+       "name": "Rockers East Vancouver"
+      },
+      {
+       "name": "Art Czars"
+      },
+      {
+       "name": "Heart Sweats"
+      },
+      {
+       "name": "Darkness on the Edge of Gastown"
+      },
+      {
+       "name": "Young Hearts Spark Fire"
+      },
+      {
+       "name": "Racer X",
+       "cover": {
+        "mbid": "9463868f-edc8-427e-ac07-ea89698e5f15",
+        "name": "Big Black",
+        "sortName": "Big Black",
+        "disambiguation": "US punk / alternative rock band",
+        "url": "https://www.setlist.fm/setlists/big-black-7bd6fa40.html"
+       }
+      },
+      {
+       "name": "Crazy/Forever"
+      },
+      {
+       "name": "Sovereignty"
+      },
+      {
+       "name": "To Hell With Good Intentions",
+       "cover": {
+        "mbid": "26860648-1c93-4849-bc52-a8541ec88219",
+        "name": "mclusky",
+        "sortName": "mclusky",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/mclusky-4bd6c72e.html"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/japandroids/2009/biltmore-cabaret-vancouver-bc-canada-bdac96a.html",
+  "_date": "2009-12-02",
+  "_songs": [
+   "The Boys Are Leaving Town",
+   "Rockers East Vancouver",
+   "Art Czars",
+   "Heart Sweats",
+   "Darkness on the Edge of Gastown",
+   "Young Hearts Spark Fire",
+   "Racer X",
+   "Crazy/Forever",
+   "Sovereignty",
+   "To Hell With Good Intentions"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "5bd047b8",
+  "versionId": "g5b5fe73c",
+  "eventDate": "22-10-2011",
+  "lastUpdated": "2024-12-14T02:17:13.862+0000",
+  "artist": {
+   "mbid": "309c62ba-7a22-4277-9f67-4a162526d18a",
+   "name": "Beck",
+   "sortName": "Beck",
+   "disambiguation": "alt rock, multi\u2010instrumentalist Beck Hansen",
+   "url": "https://www.setlist.fm/setlists/beck-63d6a2eb.html"
+  },
+  "venue": {
+   "id": "5bd6d7b4",
+   "name": "Shoreline Amphitheatre",
+   "city": {
+    "id": "5375480",
+    "name": "Mountain View",
+    "state": "California",
+    "stateCode": "CA",
+    "coords": {
+     "lat": 37.3860517,
+     "long": -122.0838511
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/shoreline-amphitheatre-mountain-view-ca-usa-5bd6d7b4.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "The Golden Age"
+      },
+      {
+       "name": "Dead Melodies"
+      },
+      {
+       "name": "Pocahontas",
+       "cover": {
+        "mbid": "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+        "name": "Neil Young & Crazy Horse",
+        "sortName": "Young, Neil & Crazy Horse",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+       },
+       "with": {
+        "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+        "name": "Neil Young",
+        "sortName": "Young, Neil",
+        "disambiguation": "Canadian singer, songwriter & musician",
+        "url": "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+       }
+      },
+      {
+       "name": "Guess I'm Doing Fine"
+      },
+      {
+       "name": "Already Dead"
+      },
+      {
+       "name": "Lost Cause"
+      },
+      {
+       "name": "Jack-Ass"
+      },
+      {
+       "name": "Sunday Sun"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/beck/2011/shoreline-amphitheatre-mountain-view-ca-5bd047b8.html",
+  "_date": "2011-10-22",
+  "_songs": [
+   "The Golden Age",
+   "Dead Melodies",
+   "Pocahontas",
+   "Guess I'm Doing Fine",
+   "Already Dead",
+   "Lost Cause",
+   "Jack-Ass",
+   "Sunday Sun"
+  ],
+  "_stratum": "B:festival"
+ },
+ {
+  "id": "43d047bf",
+  "versionId": "g34ff9c3",
+  "eventDate": "22-10-2011",
+  "lastUpdated": "2025-04-23T21:17:14.870+0000",
+  "artist": {
+   "mbid": "9c92d62c-1d8b-404e-8766-e4d9300486e5",
+   "name": "Dave Matthews & Tim Reynolds",
+   "sortName": "Matthews, Dave & Reynolds, Tim",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/dave-matthews-and-tim-reynolds-bee8162.html"
+  },
+  "venue": {
+   "id": "5bd6d7b4",
+   "name": "Shoreline Amphitheatre",
+   "city": {
+    "id": "5375480",
+    "name": "Mountain View",
+    "state": "California",
+    "stateCode": "CA",
+    "coords": {
+     "lat": 37.3860517,
+     "long": -122.0838511
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/shoreline-amphitheatre-mountain-view-ca-usa-5bd6d7b4.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "So Damn Lucky",
+       "cover": {
+        "mbid": "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+        "name": "Dave Matthews",
+        "sortName": "Matthews, Dave",
+        "disambiguation": "of Dave Matthews Band",
+        "url": "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+       }
+      },
+      {
+       "name": "Save Me",
+       "cover": {
+        "mbid": "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+        "name": "Dave Matthews",
+        "sortName": "Matthews, Dave",
+        "disambiguation": "of Dave Matthews Band",
+        "url": "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+       }
+      },
+      {
+       "name": "Crush",
+       "cover": {
+        "mbid": "07e748f1-075e-428d-85dc-ce3be434e906",
+        "name": "Dave Matthews Band",
+        "sortName": "Matthews, Dave, Band",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/dave-matthews-band-43d6e713.html"
+       }
+      },
+      {
+       "name": "Out of My Hands",
+       "cover": {
+        "mbid": "07e748f1-075e-428d-85dc-ce3be434e906",
+        "name": "Dave Matthews Band",
+        "sortName": "Matthews, Dave, Band",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/dave-matthews-band-43d6e713.html"
+       }
+      },
+      {
+       "name": "Two Step",
+       "cover": {
+        "mbid": "07e748f1-075e-428d-85dc-ce3be434e906",
+        "name": "Dave Matthews Band",
+        "sortName": "Matthews, Dave, Band",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/dave-matthews-band-43d6e713.html"
+       }
+      },
+      {
+       "name": "Oh! Susanna",
+       "cover": {
+        "mbid": "dd28ee68-673e-4fe9-acfc-fa3c81877469",
+        "name": "Stephen Foster",
+        "sortName": "Foster, Stephen",
+        "disambiguation": "composer",
+        "url": "https://www.setlist.fm/setlists/stephen-foster-4bd4bb7a.html"
+       },
+       "with": {
+        "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+        "name": "Neil Young",
+        "sortName": "Young, Neil",
+        "disambiguation": "Canadian singer, songwriter & musician",
+        "url": "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/dave-matthews-and-tim-reynolds/2011/shoreline-amphitheatre-mountain-view-ca-43d047bf.html",
+  "_date": "2011-10-22",
+  "_songs": [
+   "So Damn Lucky",
+   "Save Me",
+   "Crush",
+   "Out of My Hands",
+   "Two Step",
+   "Oh! Susanna"
+  ],
+  "_stratum": "B:festival"
+ },
+ {
+  "id": "5bd047a0",
+  "versionId": "g5bd033f4",
+  "eventDate": "22-10-2011",
+  "lastUpdated": "2021-04-29T07:15:14.897+0000",
+  "artist": {
+   "mbid": "c44e9c22-ef82-4a77-9bcd-af6c958446d6",
+   "name": "Mumford & Sons",
+   "sortName": "Mumford & Sons",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/mumford-and-sons-7bd4e228.html"
+  },
+  "venue": {
+   "id": "5bd6d7b4",
+   "name": "Shoreline Amphitheatre",
+   "city": {
+    "id": "5375480",
+    "name": "Mountain View",
+    "state": "California",
+    "stateCode": "CA",
+    "coords": {
+     "lat": 37.3860517,
+     "long": -122.0838511
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/shoreline-amphitheatre-mountain-view-ca-usa-5bd6d7b4.html"
+  },
+  "tour": {
+   "name": "Sigh No More"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Roll Away Your Stone"
+      },
+      {
+       "name": "Lovers' Eyes"
+      },
+      {
+       "name": "White Blank Page"
+      },
+      {
+       "name": "Timshel"
+      },
+      {
+       "name": "Dance Dance Dance",
+       "cover": {
+        "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+        "name": "Neil Young",
+        "sortName": "Young, Neil",
+        "disambiguation": "Canadian singer, songwriter & musician",
+        "url": "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+       },
+       "with": {
+        "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+        "name": "Neil Young",
+        "sortName": "Young, Neil",
+        "disambiguation": "Canadian singer, songwriter & musician",
+        "url": "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+       }
+      },
+      {
+       "name": "Awake My Soul",
+       "info": "+ Marika Shaw from Arcade Fire on violin",
+       "with": {
+        "mbid": "3ef8c35a-bc9f-49e4-b17d-2df4238696c0",
+        "name": "Sarah Neufeld",
+        "sortName": "Neufeld, Sarah",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/sarah-neufeld-2bd7b8b2.html"
+       }
+      },
+      {
+       "name": "The Cave"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/mumford-and-sons/2011/shoreline-amphitheatre-mountain-view-ca-5bd047a0.html",
+  "_date": "2011-10-22",
+  "_songs": [
+   "Roll Away Your Stone",
+   "Lovers' Eyes",
+   "White Blank Page",
+   "Timshel",
+   "Dance Dance Dance",
+   "Awake My Soul",
+   "The Cave"
+  ],
+  "_stratum": "B:festival"
+ },
+ {
+  "id": "43d0439b",
+  "versionId": "43b49baf",
+  "eventDate": "23-10-2011",
+  "lastUpdated": "2015-07-08T00:46:40.000+0000",
+  "artist": {
+   "mbid": "1a60d6dd-9d3e-40fc-a66d-3184f9ee0d61",
+   "name": "Eddie Vedder",
+   "sortName": "Vedder, Eddie",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/eddie-vedder-6bd6a2e2.html"
+  },
+  "venue": {
+   "id": "5bd6d7b4",
+   "name": "Shoreline Amphitheatre",
+   "city": {
+    "id": "5375480",
+    "name": "Mountain View",
+    "state": "California",
+    "stateCode": "CA",
+    "coords": {
+     "lat": 37.3860517,
+     "long": -122.0838511
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/shoreline-amphitheatre-mountain-view-ca-usa-5bd6d7b4.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Elderly Woman Behind the Counter in a Small Town",
+       "cover": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "name": "Pearl Jam",
+        "sortName": "Pearl Jam",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+       }
+      },
+      {
+       "name": "Last Kiss",
+       "cover": {
+        "mbid": "6863276d-61a2-4bee-a86b-70136be2d668",
+        "name": "Wayne Cochran",
+        "sortName": "Cochran, Wayne",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/wayne-cochran-2bd4904a.html"
+       }
+      },
+      {
+       "name": "I Am a Patriot",
+       "cover": {
+        "mbid": "9659f4dc-358c-4eb3-8a16-27fb983a9650",
+        "name": "Little Steven",
+        "sortName": "Little Steven",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/little-steven-2bd67072.html"
+       }
+      },
+      {
+       "name": "Society",
+       "cover": {
+        "mbid": "652c420b-9b65-45d8-b18f-361ccdd49b0c",
+        "name": "Jerry Hannan",
+        "sortName": "Hannan, Jerry",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jerry-hannan-6bd4fe82.html"
+       },
+       "with": {
+        "mbid": "652c420b-9b65-45d8-b18f-361ccdd49b0c",
+        "name": "Jerry Hannan",
+        "sortName": "Hannan, Jerry",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jerry-hannan-6bd4fe82.html"
+       }
+      },
+      {
+       "name": "Tonight You Belong to Me",
+       "cover": {
+        "mbid": "f5dea4c1-0dab-426f-aec0-8fa7ed50f5f9",
+        "name": "Irving Kaufman",
+        "sortName": "Kaufman, Irving",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/irving-kaufman-43d003d3.html"
+       },
+       "with": {
+        "mbid": "1816f144-284b-4bca-bb70-05b1402fadeb",
+        "name": "R\u00e9gine Chassagne",
+        "sortName": "Chassagne, R\u00e9gine",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/regine-chassagne-73d6a2fd.html"
+       }
+      },
+      {
+       "name": "Sleepless Nights",
+       "cover": {
+        "mbid": "091ec508-877f-4e3c-92a3-10903bbbc7ad",
+        "name": "The Everly Brothers",
+        "sortName": "Everly Brothers, The",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/the-everly-brothers-5bd6af64.html"
+       },
+       "with": {
+        "mbid": "309c62ba-7a22-4277-9f67-4a162526d18a",
+        "name": "Beck",
+        "sortName": "Beck",
+        "disambiguation": "alt rock, multi\u2010instrumentalist Beck Hansen",
+        "url": "https://www.setlist.fm/setlists/beck-63d6a2eb.html"
+       }
+      },
+      {
+       "name": "Don't Cry No Tears",
+       "cover": {
+        "mbid": "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+        "name": "Neil Young & Crazy Horse",
+        "sortName": "Young, Neil & Crazy Horse",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+       },
+       "with": {
+        "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+        "name": "Neil Young",
+        "sortName": "Young, Neil",
+        "disambiguation": "Canadian singer, songwriter & musician",
+        "url": "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/eddie-vedder/2011/shoreline-amphitheatre-mountain-view-ca-43d0439b.html",
+  "_date": "2011-10-23",
+  "_songs": [
+   "Elderly Woman Behind the Counter in a Small Town",
+   "Last Kiss",
+   "I Am a Patriot",
+   "Society",
+   "Tonight You Belong to Me",
+   "Sleepless Nights",
+   "Don't Cry No Tears"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "4bd0439a",
+  "versionId": "bc571ca",
+  "eventDate": "23-10-2011",
+  "lastUpdated": "2011-10-24T08:43:14.000+0000",
+  "artist": {
+   "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+   "name": "Foo Fighters",
+   "sortName": "Foo Fighters",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+  },
+  "venue": {
+   "id": "5bd6d7b4",
+   "name": "Shoreline Amphitheatre",
+   "city": {
+    "id": "5375480",
+    "name": "Mountain View",
+    "state": "California",
+    "stateCode": "CA",
+    "coords": {
+     "lat": 37.3860517,
+     "long": -122.0838511
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/shoreline-amphitheatre-mountain-view-ca-usa-5bd6d7b4.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Skin and Bones"
+      },
+      {
+       "name": "My Hero"
+      },
+      {
+       "name": "Walk"
+      },
+      {
+       "name": "These Days"
+      },
+      {
+       "name": "Times Like These"
+      },
+      {
+       "name": "Everlong",
+       "info": "Dave Grohl solo"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/foo-fighters/2011/shoreline-amphitheatre-mountain-view-ca-4bd0439a.html",
+  "_date": "2011-10-23",
+  "_songs": [
+   "Skin and Bones",
+   "My Hero",
+   "Walk",
+   "These Days",
+   "Times Like These",
+   "Everlong"
+  ],
+  "_stratum": "B:festival"
+ },
+ {
+  "id": "53d0439d",
+  "versionId": "g2b6b2c66",
+  "eventDate": "23-10-2011",
+  "lastUpdated": "2026-02-05T11:44:46.589+0000",
+  "artist": {
+   "mbid": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+   "name": "Tony Bennett",
+   "sortName": "Bennett, Tony",
+   "disambiguation": "US jazz/standards vocalist",
+   "url": "https://www.setlist.fm/setlists/tony-bennett-3bd6a0e8.html"
+  },
+  "venue": {
+   "id": "5bd6d7b4",
+   "name": "Shoreline Amphitheatre",
+   "city": {
+    "id": "5375480",
+    "name": "Mountain View",
+    "state": "California",
+    "stateCode": "CA",
+    "coords": {
+     "lat": 37.3860517,
+     "long": -122.0838511
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/shoreline-amphitheatre-mountain-view-ca-usa-5bd6d7b4.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Watch What Happens",
+       "cover": {
+        "mbid": "2c330f54-9245-488b-b678-dc8a236d06b3",
+        "name": "Michel Legrand",
+        "sortName": "Legrand, Michel",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/michel-legrand-1bd635cc.html"
+       }
+      },
+      {
+       "name": "They All Laughed",
+       "cover": {
+        "mbid": "65744963-191a-44ef-a3c7-b693a808a158",
+        "name": "George Gershwin",
+        "sortName": "Gershwin, George",
+        "disambiguation": "composer",
+        "url": "https://www.setlist.fm/setlists/george-gershwin-7bd64678.html"
+       }
+      },
+      {
+       "name": "Maybe This Time",
+       "cover": {
+        "mbid": "7ea432e4-128a-4ee1-8aed-c83e2e4c40c0",
+        "name": "Kaye Ballard",
+        "sortName": "Ballard, Kaye",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/kaye-ballard-43d3bf6f.html"
+       }
+      },
+      {
+       "name": "I Got Rhythm",
+       "cover": {
+        "mbid": "65744963-191a-44ef-a3c7-b693a808a158",
+        "name": "George Gershwin",
+        "sortName": "Gershwin, George",
+        "disambiguation": "composer",
+        "url": "https://www.setlist.fm/setlists/george-gershwin-7bd64678.html"
+       }
+      },
+      {
+       "name": "The Way You Look Tonight",
+       "cover": {
+        "mbid": "8fb64b2e-db8b-4579-ad08-f324ef1bf494",
+        "name": "Jerome Kern",
+        "sortName": "Kern, Jerome",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jerome-kern-3bd4101c.html"
+       }
+      },
+      {
+       "name": "Just in Time",
+       "cover": {
+        "mbid": "1b3a1e49-2494-441c-9818-3fbbe73d09b4",
+        "name": "Jule Styne",
+        "sortName": "Styne, Jule",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jule-styne-53d70b59.html"
+       }
+      },
+      {
+       "name": "I Wanna Be Around",
+       "cover": {
+        "mbid": "e0cee58f-6e9f-426b-88c1-1619acad26d5",
+        "name": "Wynona Carr",
+        "sortName": "Carr, Wynona",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/wynona-carr-73d78e5d.html"
+       }
+      },
+      {
+       "name": "The Good Life",
+       "cover": {
+        "mbid": "ed1798ac-118a-4c3e-97d3-47aa1fa0a76a",
+        "name": "Sacha Distel",
+        "sortName": "Distel, Sacha",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/sacha-distel-43d6b7ef.html"
+       }
+      },
+      {
+       "name": "I Left My Heart in San Francisco",
+       "cover": {
+        "mbid": "b0294365-f8dd-468c-ad11-bd4ccf34eb7c",
+        "name": "Ceil Clayton",
+        "sortName": "Clayton, Ceil",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ceil-clayton-73f41285.html"
+       }
+      },
+      {
+       "name": "Who Cares (So Long as You Care for Me)",
+       "cover": {
+        "mbid": "65744963-191a-44ef-a3c7-b693a808a158",
+        "name": "George Gershwin",
+        "sortName": "Gershwin, George",
+        "disambiguation": "composer",
+        "url": "https://www.setlist.fm/setlists/george-gershwin-7bd64678.html"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/tony-bennett/2011/shoreline-amphitheatre-mountain-view-ca-53d0439d.html",
+  "_date": "2011-10-23",
+  "_songs": [
+   "Watch What Happens",
+   "They All Laughed",
+   "Maybe This Time",
+   "I Got Rhythm",
+   "The Way You Look Tonight",
+   "Just in Time",
+   "I Wanna Be Around",
+   "The Good Life",
+   "I Left My Heart in San Francisco",
+   "Who Cares (So Long as You Care for Me)"
+  ],
+  "_stratum": "B:festival"
+ },
+ {
+  "id": "13e88d41",
+  "versionId": "b115da2",
+  "eventDate": "31-12-2011",
+  "lastUpdated": "2019-04-24T20:43:36.394+0000",
+  "artist": {
+   "mbid": "cffb263e-f6af-4127-b783-f4bbf28cad0c",
+   "name": "Talkdemonic",
+   "sortName": "Talkdemonic",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/talkdemonic-23d7f8bf.html"
+  },
+  "venue": {
+   "id": "bd5c9ee",
+   "name": "McMenamins Mission Theater",
+   "city": {
+    "id": "5746545",
+    "name": "Portland",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "coords": {
+     "lat": 45.5234515,
+     "long": -122.6762071
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/mcmenamins-mission-theater-portland-or-usa-bd5c9ee.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Ending the Orange Glow"
+      },
+      {
+       "name": "Revival"
+      },
+      {
+       "name": "Dreams",
+       "cover": {
+        "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "name": "Fleetwood Mac",
+        "sortName": "Fleetwood Mac",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/talkdemonic/2011/mcmenamins-mission-theater-portland-or-13e88d41.html",
+  "_date": "2011-12-31",
+  "_songs": [
+   "Ending the Orange Glow",
+   "Revival",
+   "Dreams"
+  ],
+  "_stratum": "D:one-off"
+ },
+ {
+  "id": "4bdd73c2",
+  "versionId": "6bfe1ac2",
+  "eventDate": "17-10-2012",
+  "lastUpdated": "2013-01-30T16:23:25.000+0000",
+  "artist": {
+   "mbid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+   "name": "Grimes",
+   "sortName": "Grimes",
+   "disambiguation": "Canadian singer and producer",
+   "url": "https://www.setlist.fm/setlists/grimes-4bd2b352.html"
+  },
+  "venue": {
+   "id": "6bd6d2a2",
+   "name": "Commodore Ballroom",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/commodore-ballroom-vancouver-bc-canada-6bd6d2a2.html"
+  },
+  "sets": {
+   "set": []
+  },
+  "url": "https://www.setlist.fm/setlist/grimes/2012/commodore-ballroom-vancouver-bc-canada-4bdd73c2.html",
+  "_date": "2012-10-17",
+  "_songs": [],
+  "_stratum": "C:no-setlist"
+ },
+ {
+  "id": "3c01dc3",
+  "versionId": "53900321",
+  "eventDate": "07-06-2014",
+  "lastUpdated": "2014-06-15T20:52:28.000+0000",
+  "artist": {
+   "mbid": "60e8e938-365e-4429-a141-4c79eb49588d",
+   "name": "Chelsea Wolfe",
+   "sortName": "Wolfe, Chelsea",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/chelsea-wolfe-53d5b7c1.html"
+  },
+  "venue": {
+   "id": "43d63b03",
+   "name": "The Moore Theatre",
+   "city": {
+    "id": "5809844",
+    "name": "Seattle",
+    "state": "Washington",
+    "stateCode": "WA",
+    "coords": {
+     "lat": 47.6062095,
+     "long": -122.3320708
+    },
+    "country": {
+     "code": "US",
+     "name": "United States"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/the-moore-theatre-seattle-wa-usa-43d63b03.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Feral Love"
+      },
+      {
+       "name": "House of Metal"
+      },
+      {
+       "name": "Appalachia"
+      },
+      {
+       "name": "Flatlands"
+      },
+      {
+       "name": "Spinning Centers"
+      },
+      {
+       "name": "Boyfriend"
+      },
+      {
+       "name": "The Warden"
+      },
+      {
+       "name": "Sick"
+      },
+      {
+       "name": "Echo",
+       "cover": {
+        "mbid": "a41ba687-a775-4d65-80e8-2b47ff7f0100",
+        "name": "Rudimentary Peni",
+        "sortName": "Rudimentary Peni",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/rudimentary-peni-63d68e1f.html"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/chelsea-wolfe/2014/the-moore-theatre-seattle-wa-3c01dc3.html",
+  "_date": "2014-06-07",
+  "_songs": [
+   "Feral Love",
+   "House of Metal",
+   "Appalachia",
+   "Flatlands",
+   "Spinning Centers",
+   "Boyfriend",
+   "The Warden",
+   "Sick",
+   "Echo"
+  ],
+  "_stratum": "D:one-off"
+ },
+ {
+  "id": "33c9c019",
+  "versionId": "g53c1eb49",
+  "eventDate": "09-06-2015",
+  "lastUpdated": "2022-02-14T06:27:20.999+0000",
+  "artist": {
+   "mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+   "name": "Sufjan Stevens",
+   "sortName": "Stevens, Sufjan",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/sufjan-stevens-73d6ae91.html"
+  },
+  "venue": {
+   "id": "23d0c0b7",
+   "name": "The Orpheum",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/the-orpheum-vancouver-bc-canada-23d0c0b7.html"
+  },
+  "tour": {
+   "name": "Carrie & Lowell"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Redford (For Yia-Yia & Pappou)"
+      },
+      {
+       "name": "Death With Dignity"
+      },
+      {
+       "name": "Should Have Known Better"
+      },
+      {
+       "name": "Drawn to the Blood"
+      },
+      {
+       "name": "All of Me Wants All of You"
+      },
+      {
+       "name": "Eugene"
+      },
+      {
+       "name": "John My Beloved"
+      },
+      {
+       "name": "The Only Thing"
+      },
+      {
+       "name": "Fourth of July"
+      },
+      {
+       "name": "No Shade in the Shadow of the Cross"
+      },
+      {
+       "name": "Carrie & Lowell"
+      },
+      {
+       "name": "The Owl and the Tanager"
+      },
+      {
+       "name": "The Predatory Wasp of the Palisades Is Out to Get Us!"
+      },
+      {
+       "name": "Casimir Pulaski Day"
+      },
+      {
+       "name": "In the Devil's Territory"
+      },
+      {
+       "name": "Futile Devices"
+      },
+      {
+       "name": "The Dress Looks Nice on You"
+      },
+      {
+       "name": "Blue Bucket of Gold"
+      }
+     ]
+    },
+    {
+     "encore": 1,
+     "song": [
+      {
+       "name": "Concerning the UFO Sighting Near Highland, Illinois"
+      },
+      {
+       "name": "To Be Alone With You"
+      },
+      {
+       "name": "Chicago"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/sufjan-stevens/2015/the-orpheum-vancouver-bc-canada-33c9c019.html",
+  "_date": "2015-06-09",
+  "_songs": [
+   "Redford (For Yia-Yia & Pappou)",
+   "Death With Dignity",
+   "Should Have Known Better",
+   "Drawn to the Blood",
+   "All of Me Wants All of You",
+   "Eugene",
+   "John My Beloved",
+   "The Only Thing",
+   "Fourth of July",
+   "No Shade in the Shadow of the Cross",
+   "Carrie & Lowell",
+   "The Owl and the Tanager",
+   "The Predatory Wasp of the Palisades Is Out to Get Us!",
+   "Casimir Pulaski Day",
+   "In the Devil's Territory",
+   "Futile Devices",
+   "The Dress Looks Nice on You",
+   "Blue Bucket of Gold",
+   "Concerning the UFO Sighting Near Highland, Illinois",
+   "To Be Alone With You",
+   "Chicago"
+  ],
+  "_stratum": "D:one-off"
+ },
+ {
+  "id": "4bfd9792",
+  "versionId": "g3bff3c0c",
+  "eventDate": "19-09-2016",
+  "lastUpdated": "2022-08-26T14:01:56.629+0000",
+  "artist": {
+   "mbid": "f6f2326f-6b25-4170-b89d-e235b25508e8",
+   "name": "Sigur R\u00f3s",
+   "sortName": "Sigur R\u00f3s",
+   "disambiguation": "Icelandic post\u2010rock band",
+   "url": "https://www.setlist.fm/setlists/sigur-ros-4bd63bc6.html"
+  },
+  "venue": {
+   "id": "3bd6c428",
+   "name": "Queen Elizabeth Theatre",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/queen-elizabeth-theatre-vancouver-bc-canada-3bd6c428.html"
+  },
+  "tour": {
+   "name": "2016 North American Tour"
+  },
+  "sets": {
+   "set": [
+    {
+     "name": "Set 1:",
+     "song": [
+      {
+       "name": "\u00c1"
+      },
+      {
+       "name": "Ekki m\u00fakk"
+      },
+      {
+       "name": "Untitled #3 \u2013 Samskeyti"
+      },
+      {
+       "name": "Untitled #6 \u2013 E-Bow"
+      },
+      {
+       "name": "Untitled #7 \u2013 Dau\u00f0alagi\u00f0"
+      },
+      {
+       "name": "Gl\u00f3s\u00f3li"
+      },
+      {
+       "name": "Sm\u00e1skifa"
+      }
+     ]
+    },
+    {
+     "name": "Set 2:",
+     "song": [
+      {
+       "name": "\u00d3ve\u00f0ur"
+      },
+      {
+       "name": "Star\u00e1lfur"
+      },
+      {
+       "name": "S\u00e6gl\u00f3pur"
+      },
+      {
+       "name": "N\u00fd batter\u00ed"
+      },
+      {
+       "name": "Hlj\u00f3malind"
+      },
+      {
+       "name": "Festival"
+      },
+      {
+       "name": "Kveikur"
+      },
+      {
+       "name": "Untitled #1 \u2013 Vaka"
+      },
+      {
+       "name": "Untitled #8 \u2013 Popplagi\u00f0"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/sigur-ros/2016/queen-elizabeth-theatre-vancouver-bc-canada-4bfd9792.html",
+  "_date": "2016-09-19",
+  "_songs": [
+   "\u00c1",
+   "Ekki m\u00fakk",
+   "Untitled #3 \u2013 Samskeyti",
+   "Untitled #6 \u2013 E-Bow",
+   "Untitled #7 \u2013 Dau\u00f0alagi\u00f0",
+   "Gl\u00f3s\u00f3li",
+   "Sm\u00e1skifa",
+   "\u00d3ve\u00f0ur",
+   "Star\u00e1lfur",
+   "S\u00e6gl\u00f3pur",
+   "N\u00fd batter\u00ed",
+   "Hlj\u00f3malind",
+   "Festival",
+   "Kveikur",
+   "Untitled #1 \u2013 Vaka",
+   "Untitled #8 \u2013 Popplagi\u00f0"
+  ],
+  "_stratum": "E:random"
+ },
+ {
+  "id": "63fd166f",
+  "versionId": "5ba9efc8",
+  "eventDate": "07-10-2016",
+  "lastUpdated": "2016-10-07T18:32:07.000+0000",
+  "artist": {
+   "mbid": "2008d65c-31ee-4382-8960-5188523568d5",
+   "name": "Japandroids",
+   "sortName": "Japandroids",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/japandroids-4bd4af52.html"
+  },
+  "venue": {
+   "id": "6bd7baf2",
+   "name": "The Cobalt",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/the-cobalt-vancouver-bc-canada-6bd7baf2.html"
+  },
+  "sets": {
+   "set": []
+  },
+  "url": "https://www.setlist.fm/setlist/japandroids/2016/the-cobalt-vancouver-bc-canada-63fd166f.html",
+  "_date": "2016-10-07",
+  "_songs": [],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "5ba23b8c",
+  "versionId": "g6b99669a",
+  "eventDate": "09-09-2023",
+  "lastUpdated": "2023-09-10T06:46:56.720+0000",
+  "artist": {
+   "mbid": "a96ac800-bfcb-412a-8a63-0a98df600700",
+   "name": "Modest Mouse",
+   "sortName": "Modest Mouse",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/modest-mouse-73d6ae69.html"
+  },
+  "venue": {
+   "id": "33d2e0d5",
+   "name": "Doug Mitchell Thunderbird Sports Centre",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/doug-mitchell-thunderbird-sports-centre-vancouver-bc-canada-33d2e0d5.html"
+  },
+  "tour": {
+   "name": "Summer 2023 Pixies and Modest Mouse Tour"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Dark Center of the Universe"
+      },
+      {
+       "name": "Ocean Breathes Salty"
+      },
+      {
+       "name": "Fire It Up"
+      },
+      {
+       "name": "Fuck Your Acid Trip"
+      },
+      {
+       "name": "Lampshades on Fire"
+      },
+      {
+       "name": "Paper Thin Walls"
+      },
+      {
+       "name": "3rd Planet"
+      },
+      {
+       "name": "Blame It on the Tetons"
+      },
+      {
+       "name": "The View"
+      },
+      {
+       "name": "Dashboard"
+      },
+      {
+       "name": "Tiny Cities Made of Ashes"
+      },
+      {
+       "name": "King Rat"
+      },
+      {
+       "name": "Bukowski"
+      },
+      {
+       "name": "Float On"
+      },
+      {
+       "name": "Teeth Like God's Shoeshine"
+      },
+      {
+       "name": "Shit Luck"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/modest-mouse/2023/doug-mitchell-thunderbird-sports-centre-vancouver-bc-canada-5ba23b8c.html",
+  "_date": "2023-09-09",
+  "_songs": [
+   "Dark Center of the Universe",
+   "Ocean Breathes Salty",
+   "Fire It Up",
+   "Fuck Your Acid Trip",
+   "Lampshades on Fire",
+   "Paper Thin Walls",
+   "3rd Planet",
+   "Blame It on the Tetons",
+   "The View",
+   "Dashboard",
+   "Tiny Cities Made of Ashes",
+   "King Rat",
+   "Bukowski",
+   "Float On",
+   "Teeth Like God's Shoeshine",
+   "Shit Luck"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "3abb9cb",
+  "versionId": "g1bbab510",
+  "eventDate": "06-05-2024",
+  "lastUpdated": "2024-05-07T06:48:17.017+0000",
+  "artist": {
+   "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+   "name": "Pearl Jam",
+   "sortName": "Pearl Jam",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+  },
+  "venue": {
+   "id": "33d65801",
+   "name": "Rogers Arena",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/rogers-arena-vancouver-bc-canada-33d65801.html"
+  },
+  "tour": {
+   "name": "Dark Matter World Tour"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Long Road",
+       "info": "tour debut"
+      },
+      {
+       "name": "Nothingman",
+       "info": "tour debut"
+      },
+      {
+       "name": "Immortality",
+       "info": "tour debut"
+      },
+      {
+       "name": "In Hiding",
+       "info": "tour debut"
+      },
+      {
+       "name": "Scared of Fear"
+      },
+      {
+       "name": "React, Respond"
+      },
+      {
+       "name": "Wreckage"
+      },
+      {
+       "name": "Dark Matter"
+      },
+      {
+       "name": "Wishlist",
+       "info": "tour debut"
+      },
+      {
+       "name": "Even Flow",
+       "info": "tour debut"
+      },
+      {
+       "name": "Quick Escape",
+       "info": "tour debut"
+      },
+      {
+       "name": "Upper Hand"
+      },
+      {
+       "name": "Got to Give",
+       "info": "live debut"
+      },
+      {
+       "name": "Running"
+      },
+      {
+       "name": "Jeremy",
+       "info": "tour debut"
+      },
+      {
+       "name": "Better Man",
+       "info": "tour debut"
+      }
+     ]
+    },
+    {
+     "encore": 1,
+     "song": [
+      {
+       "name": "Keep Me in Your Heart",
+       "cover": {
+        "mbid": "970fb29f-e288-403e-a388-d2a7889bfa47",
+        "name": "Warren Zevon",
+        "sortName": "Zevon, Warren",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/warren-zevon-7bd67238.html"
+       }
+      },
+      {
+       "name": "Why Go",
+       "info": "tour debut"
+      },
+      {
+       "name": "Do the Evolution"
+      },
+      {
+       "name": "Alone",
+       "info": "tour debut"
+      },
+      {
+       "name": "Alive"
+      },
+      {
+       "name": "Baba O'Riley",
+       "cover": {
+        "mbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+        "name": "The Who",
+        "sortName": "Who, The",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+       },
+       "info": "tour debut"
+      },
+      {
+       "name": "Smile",
+       "info": "tour debut"
+      },
+      {
+       "name": "Setting Sun"
+      }
+     ]
+    }
+   ]
+  },
+  "info": "\"Down\" was on the printed setlist, but not played.",
+  "url": "https://www.setlist.fm/setlist/pearl-jam/2024/rogers-arena-vancouver-bc-canada-3abb9cb.html",
+  "_date": "2024-05-06",
+  "_songs": [
+   "Long Road",
+   "Nothingman",
+   "Immortality",
+   "In Hiding",
+   "Scared of Fear",
+   "React, Respond",
+   "Wreckage",
+   "Dark Matter",
+   "Wishlist",
+   "Even Flow",
+   "Quick Escape",
+   "Upper Hand",
+   "Got to Give",
+   "Running",
+   "Jeremy",
+   "Better Man",
+   "Keep Me in Your Heart",
+   "Why Go",
+   "Do the Evolution",
+   "Alone",
+   "Alive",
+   "Baba O'Riley",
+   "Smile",
+   "Setting Sun"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "5355eb3d",
+  "versionId": "g6ba952aa",
+  "eventDate": "02-10-2024",
+  "lastUpdated": "2024-10-04T21:23:56.726+0000",
+  "artist": {
+   "mbid": "87b9b3b8-ab93-426c-a200-4012d667a626",
+   "name": "The War on Drugs",
+   "sortName": "War on Drugs, The",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/the-war-on-drugs-6bd71e8a.html"
+  },
+  "venue": {
+   "id": "33d65801",
+   "name": "Rogers Arena",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/rogers-arena-vancouver-bc-canada-33d65801.html"
+  },
+  "tour": {
+   "name": "Zen Diagram Tour"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Baby Missiles"
+      },
+      {
+       "name": "Pain"
+      },
+      {
+       "name": "An Ocean in Between the Waves"
+      },
+      {
+       "name": "I Don't Wanna Wait"
+      },
+      {
+       "name": "Red Eyes"
+      },
+      {
+       "name": "Strangest Thing"
+      },
+      {
+       "name": "Harmonia's Dream"
+      },
+      {
+       "name": "Comin' Through"
+      },
+      {
+       "name": "Under the Pressure"
+      },
+      {
+       "name": "I Don't Live Here Anymore",
+       "with": {
+        "mbid": "1676172f-657a-4771-96ff-4a1c2ef1997e",
+        "name": "Lucius",
+        "sortName": "Lucius",
+        "disambiguation": "US indie pop band",
+        "url": "https://www.setlist.fm/setlists/lucius-3df2577.html"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "info": "",
+  "url": "https://www.setlist.fm/setlist/the-war-on-drugs/2024/rogers-arena-vancouver-bc-canada-5355eb3d.html",
+  "_date": "2024-10-02",
+  "_songs": [
+   "Baby Missiles",
+   "Pain",
+   "An Ocean in Between the Waves",
+   "I Don't Wanna Wait",
+   "Red Eyes",
+   "Strangest Thing",
+   "Harmonia's Dream",
+   "Comin' Through",
+   "Under the Pressure",
+   "I Don't Live Here Anymore"
+  ],
+  "_stratum": "D:one-off"
+ },
+ {
+  "id": "b500d0a",
+  "versionId": "gb6abd26",
+  "eventDate": "15-10-2024",
+  "lastUpdated": "2026-01-23T19:25:09.173+0000",
+  "artist": {
+   "mbid": "f94bf2b7-6f66-447a-9929-ac9f3c5452fc",
+   "name": "Blaqk Audio",
+   "sortName": "Blaqk Audio",
+   "disambiguation": "American electronic music duo",
+   "url": "https://www.setlist.fm/setlists/blaqk-audio-23d6486f.html"
+  },
+  "venue": {
+   "id": "23d0c0b7",
+   "name": "The Orpheum",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/the-orpheum-vancouver-bc-canada-23d0c0b7.html"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Stiff Kittens"
+      },
+      {
+       "name": "Dark Times at the Berlin Wall"
+      },
+      {
+       "name": "Cities of Night"
+      },
+      {
+       "name": "OK, Alex"
+      },
+      {
+       "name": "1948"
+      },
+      {
+       "name": "The Viles"
+      },
+      {
+       "name": "Waiting to Be Told"
+      },
+      {
+       "name": "Unstained"
+      },
+      {
+       "name": "Material"
+      },
+      {
+       "name": "Bitter for Sweet"
+      },
+      {
+       "name": "First to Love"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/blaqk-audio/2024/the-orpheum-vancouver-bc-canada-b500d0a.html",
+  "_date": "2024-10-15",
+  "_songs": [
+   "Stiff Kittens",
+   "Dark Times at the Berlin Wall",
+   "Cities of Night",
+   "OK, Alex",
+   "1948",
+   "The Viles",
+   "Waiting to Be Told",
+   "Unstained",
+   "Material",
+   "Bitter for Sweet",
+   "First to Love"
+  ],
+  "_stratum": "E:random"
+ },
+ {
+  "id": "4353f3bb",
+  "versionId": "g434fd39f",
+  "eventDate": "24-04-2025",
+  "lastUpdated": "2025-04-25T06:02:05.266+0000",
+  "artist": {
+   "mbid": "d700b3f5-45af-4d02-95ed-57d301bda93e",
+   "name": "Mogwai",
+   "sortName": "Mogwai",
+   "disambiguation": "Scottish post\u2010rock band",
+   "url": "https://www.setlist.fm/setlists/mogwai-6bd69a52.html"
+  },
+  "venue": {
+   "id": "6bd6d2a2",
+   "name": "Commodore Ballroom",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/commodore-ballroom-vancouver-bc-canada-6bd6d2a2.html"
+  },
+  "tour": {
+   "name": "World Tour 2025"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "God Gets You Back"
+      },
+      {
+       "name": "Hi Chaos"
+      },
+      {
+       "name": "Kids Will Be Skeletons"
+      },
+      {
+       "name": "If You Find This World Bad, You Should See Some of the Others"
+      },
+      {
+       "name": "New Paths to Helicon, Pt. 1"
+      },
+      {
+       "name": "Pale Vegan Hip Pain"
+      },
+      {
+       "name": "Cody"
+      },
+      {
+       "name": "Ritchie Sacramento"
+      },
+      {
+       "name": "Fanzine Made of Flesh"
+      },
+      {
+       "name": "Remurdered"
+      },
+      {
+       "name": "We're No Here"
+      },
+      {
+       "name": "Lion Rumpus"
+      }
+     ]
+    },
+    {
+     "encore": 1,
+     "song": [
+      {
+       "name": "My Father, My King"
+      }
+     ]
+    }
+   ]
+  },
+  "url": "https://www.setlist.fm/setlist/mogwai/2025/commodore-ballroom-vancouver-bc-canada-4353f3bb.html",
+  "_date": "2025-04-24",
+  "_songs": [
+   "God Gets You Back",
+   "Hi Chaos",
+   "Kids Will Be Skeletons",
+   "If You Find This World Bad, You Should See Some of the Others",
+   "New Paths to Helicon, Pt. 1",
+   "Pale Vegan Hip Pain",
+   "Cody",
+   "Ritchie Sacramento",
+   "Fanzine Made of Flesh",
+   "Remurdered",
+   "We're No Here",
+   "Lion Rumpus",
+   "My Father, My King"
+  ],
+  "_stratum": "A:repeat"
+ },
+ {
+  "id": "1b588d10",
+  "versionId": "g337f3405",
+  "eventDate": "22-08-2025",
+  "lastUpdated": "2025-08-24T02:54:52.977+0000",
+  "artist": {
+   "mbid": "dfe78af2-779e-4137-826a-3073a16e3278",
+   "name": "Phantogram",
+   "sortName": "Phantogram",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/phantogram-7bd4063c.html"
+  },
+  "venue": {
+   "id": "33d65801",
+   "name": "Rogers Arena",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/rogers-arena-vancouver-bc-canada-33d65801.html"
+  },
+  "tour": {
+   "name": "Running Through Colors"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Funeral Pyre"
+      },
+      {
+       "name": "You Don't Get Me High Anymore"
+      },
+      {
+       "name": "Fall in Love"
+      },
+      {
+       "name": "Feedback Invisible"
+      },
+      {
+       "name": "You're Mine"
+      },
+      {
+       "name": "Attaway"
+      },
+      {
+       "name": "Run Run Blood"
+      },
+      {
+       "name": "Black Out Days"
+      },
+      {
+       "name": "Come Alive"
+      },
+      {
+       "name": "Cruel World"
+      },
+      {
+       "name": "When I'm Small"
+      }
+     ]
+    }
+   ]
+  },
+  "info": "Setlist incomplete and out of order",
+  "url": "https://www.setlist.fm/setlist/phantogram/2025/rogers-arena-vancouver-bc-canada-1b588d10.html",
+  "_date": "2025-08-22",
+  "_songs": [
+   "Funeral Pyre",
+   "You Don't Get Me High Anymore",
+   "Fall in Love",
+   "Feedback Invisible",
+   "You're Mine",
+   "Attaway",
+   "Run Run Blood",
+   "Black Out Days",
+   "Come Alive",
+   "Cruel World",
+   "When I'm Small"
+  ],
+  "_stratum": "D:one-off"
+ },
+ {
+  "id": "5340d755",
+  "versionId": "g7b7c1ab8",
+  "eventDate": "01-09-2025",
+  "lastUpdated": "2025-09-02T06:01:50.141+0000",
+  "artist": {
+   "mbid": "22dc2681-4260-437e-a570-c4e92e011f68",
+   "name": "Ginger Root",
+   "sortName": "Ginger Root",
+   "disambiguation": "",
+   "url": "https://www.setlist.fm/setlists/ginger-root-73c8be1d.html"
+  },
+  "venue": {
+   "id": "23d0c0b7",
+   "name": "The Orpheum",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/the-orpheum-vancouver-bc-canada-23d0c0b7.html"
+  },
+  "sets": {
+   "set": []
+  },
+  "url": "https://www.setlist.fm/setlist/ginger-root/2025/the-orpheum-vancouver-bc-canada-5340d755.html",
+  "_date": "2025-09-01",
+  "_songs": [],
+  "_stratum": "C:no-setlist"
+ },
+ {
+  "id": "2347f06f",
+  "versionId": "g3379e0a5",
+  "eventDate": "07-10-2025",
+  "lastUpdated": "2025-10-08T20:24:33.895+0000",
+  "artist": {
+   "mbid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+   "name": "Wolf Alice",
+   "sortName": "Wolf Alice",
+   "disambiguation": "British indie/rock band",
+   "url": "https://www.setlist.fm/setlists/wolf-alice-bdcd1c2.html"
+  },
+  "venue": {
+   "id": "6bd6d2a2",
+   "name": "Commodore Ballroom",
+   "city": {
+    "id": "6173331",
+    "name": "Vancouver",
+    "state": "British Columbia",
+    "stateCode": "BC",
+    "coords": {
+     "lat": 49.249657393,
+     "long": -123.119340403
+    },
+    "country": {
+     "code": "CA",
+     "name": "Canada"
+    }
+   },
+   "url": "https://www.setlist.fm/venue/commodore-ballroom-vancouver-bc-canada-6bd6d2a2.html"
+  },
+  "tour": {
+   "name": "The Clearing"
+  },
+  "sets": {
+   "set": [
+    {
+     "song": [
+      {
+       "name": "Thorns"
+      },
+      {
+       "name": "How Can I Make It OK?"
+      },
+      {
+       "name": "Delicious Things"
+      },
+      {
+       "name": "Formidable Cool"
+      },
+      {
+       "name": "White Horses"
+      },
+      {
+       "name": "Bros"
+      },
+      {
+       "name": "Just Two Girls"
+      },
+      {
+       "name": "Leaning Against the Wall"
+      },
+      {
+       "name": "Your Loves Whore"
+      },
+      {
+       "name": "Safe in the World"
+      },
+      {
+       "name": "Safe From Heartbreak (If You Never Fall in Love)"
+      },
+      {
+       "name": "The Sofa"
+      },
+      {
+       "name": "Bread Butter Tea Sugar"
+      },
+      {
+       "name": "Yuk Foo"
+      },
+      {
+       "name": "Play the Greatest Hits"
+      },
+      {
+       "name": "Lipstick on the Glass"
+      },
+      {
+       "name": "Play It Out"
+      },
+      {
+       "name": "Giant Peach"
+      },
+      {
+       "name": "Smile"
+      },
+      {
+       "name": "Bloom Baby Bloom",
+       "info": "Cut short when someone in the crowd collapsed"
+      }
+     ]
+    },
+    {
+     "encore": 1,
+     "song": [
+      {
+       "name": "Don't Delete the Kisses"
+      }
+     ]
+    }
+   ]
+  },
+  "info": "The printed setlist had \"Last Man On Earth\" followed by \"Don't Delete The Kisses\" as encore. When they resumed playing after the song that was cut short, they just said it would be their last song and did \"Don't delete the kisses\".",
+  "url": "https://www.setlist.fm/setlist/wolf-alice/2025/commodore-ballroom-vancouver-bc-canada-2347f06f.html",
+  "_date": "2025-10-07",
+  "_songs": [
+   "Thorns",
+   "How Can I Make It OK?",
+   "Delicious Things",
+   "Formidable Cool",
+   "White Horses",
+   "Bros",
+   "Just Two Girls",
+   "Leaning Against the Wall",
+   "Your Loves Whore",
+   "Safe in the World",
+   "Safe From Heartbreak (If You Never Fall in Love)",
+   "The Sofa",
+   "Bread Butter Tea Sugar",
+   "Yuk Foo",
+   "Play the Greatest Hits",
+   "Lipstick on the Glass",
+   "Play It Out",
+   "Giant Peach",
+   "Smile",
+   "Bloom Baby Bloom",
+   "Don't Delete the Kisses"
+  ],
+  "_stratum": "E:random"
+ }
+]
